@@ -80,6 +80,7 @@ function ExerciseCardYT({ exercise }) {
       {videoId && (
         <Link
           to={`/video/${videoId}`} // Navigate to the VideoPlayerPage with videoId
+          state={{ exerciseName: exercise.exercise }}
           style={{
             display: 'inline-block',
             marginTop: '10px',
