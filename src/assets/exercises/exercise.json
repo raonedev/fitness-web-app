@@ -1,0 +1,2130 @@
+[
+    {
+      "id": 1,
+      "exercise": "Seated Dumbbell Overhead Press",
+      "primary": "Shoulders",
+      "secondary": "Triceps, Traps",
+      "embed_link": "https://youtu.be/b5JzUH8gsOg?si=EKbZ-_VI5hb_3_xu",
+      "details": "{\"Setup\": [\"Sit on a bench with back support.\", \"Hold a dumbbell in each hand at shoulder height.\"], \"Body Position\": [\"Keep your feet flat on the ground.\", \"Maintain a straight back and engage your core.\"], \"Execution\": [\"Press the dumbbells overhead simultaneously.\", \" Fully extend your arms without locking the elbows.\"], \"Range of Motion\": [\"Lower the dumbbells back to shoulder height with control.\"], \"Muscles Targeted\": [\"Primary - Deltoids (shoulders)\", \"Secondary - Triceps, upper traps\"], \"Safety Considerations\": [\"Choose appropriate weights to prevent strain\", \"If you feel any pain, stop the exercise.\"]}"
+    },
+    {
+      "id": 2,
+      "exercise": "Seated Dumbbell Overhead Press, Single Arm",
+      "primary": "Shoulders",
+      "secondary": "Triceps, Traps",
+      "embed_link": "https://youtu.be/9DB2kibw0os?si=UDiWblESCHrp7H99",
+      "details": "{\"Setup\": [\"Sit on a bench with back support.\", \"Hold a single dumbbell in one hand at shoulder height.\"], \"Body Position\": [\"Keep your feet flat on the ground.\", \"Maintain a straight back and engage your core.\"], \"Execution\": [\"Press the dumbbell overhead.\", \"Fully extend your arm without locking the elbow.\"], \"Range of Motion\": [\"Lower the dumbbell back to shoulder height with control.\"], \"Muscles Targeted\": [\"Primary - Deltoid (shoulder)\", \"Secondary - Triceps, upper traps\"], \"Safety Considerations\": [\"Choose an appropriate weight to maintain balance.\", \"If you feel any pain, stop the exercise.\"]}"
+    },
+    {
+      "id": 3,
+      "exercise": "Standing Dumbbell Overhead Press",
+      "primary": "Shoulders",
+      "secondary": "Triceps, Traps",
+      "embed_link": "https://youtu.be/S4l5qt_-iwU?si=ablTZuFfX48cH2i7",
+      "details": "{\"Setup\": [\"Stand with feet shoulder-width apart.\", \"Hold a dumbbell in each hand at shoulder height.\"], \"Body Position\": [\"Maintain a straight back and engage your core.\", \"Keep your feet firmly planted on the ground.\"], \"Execution\": [\"Press the dumbbells overhead simultaneously.\", \"Fully extend your arms without locking the elbows.\"], \"Range of Motion\": [\"Lower the dumbbells back to shoulder height with control.\"], \"Muscles Targeted\": [\"Primary - Deltoids (shoulders)\", \"Secondary - Triceps, upper traps\"], \"Safety Considerations\": [\"Choose appropriate weights to prevent strain.\", \"If you feel any pain, stop the exercise.\"]}"
+    },
+    {
+      "id": 4,
+      "exercise": "Standing Dumbbell Overhead Press, Single Arm",
+      "primary": "Shoulders",
+      "secondary": "Triceps, Traps",
+      "embed_link": "https://youtu.be/L9KvYRHyrcg?si=cR0ewNxvuqnzM_qN",
+      "details": "{\"Setup\": [\"Stand with feet shoulder-width apart.\", \"Hold a single dumbbell in one hand at shoulder height.\"], \"Body Position\": [\"Maintain a straight back and engage your core.\", \"Keep your feet firmly planted on the ground.\"], \"Execution\": [\"Press the dumbbell overhead.\", \"Fully extend your arm without locking the elbow.\"], \"Range of Motion\": [\"Lower the dumbbell back to shoulder height with control.\"], \"Muscles Targeted\": [\"Primary - Deltoid (shoulder)\", \"Secondary - Triceps, upper traps\"], \"Safety Considerations\": [\"Choose an appropriate weight to maintain balance.\", \"If you feel any pain, stop the exercise.\"]}"
+    },
+    {
+      "id": 5,
+      "exercise": "Seated Barbell Overhead Press",
+      "primary": "Shoulders",
+      "secondary": "Triceps, Traps",
+      "embed_link": "https://youtu.be/b5JzUH8gsOg?si=EKbZ-_VI5hb_3_xu",
+      "details": "{\"Setup\": [\"Sit on a bench with back support.\", \"Grab a barbell with an overhand grip, hands slightly wider than shoulder-width.\"], \"Body Position\": [\"Keep your feet flat on the ground.\", \"Maintain a straight back and engage your core.\"], \"Execution\": [\"Press the barbell overhead.\", \"Fully extend your arms without locking the elbows.\"], \"Range of Motion\": [\"Lower the barbell back to shoulder height with control.\"], \"Muscles Targeted\": [\"Primary - Deltoids (shoulders)\", \"Secondary - Triceps, upper traps\"], \"Safety Considerations\": [\"Choose appropriate weights to prevent strain.\", \"If you feel any pain, stop the exercise.\"]}"
+    },
+    {
+      "id": 6,
+      "exercise": "Seated Barbell Behind the Neck Press",
+      "primary": "Shoulders",
+      "secondary": "Triceps, Traps",
+      "embed_link": "https://youtu.be/zhFoDNzSTyE?si=Om8qITQlA-Lxg6_r",
+      "details": "{\"Setup\": [\"Sit on a bench with back support.\", \"Grab a barbell with an overhand grip, hands slightly wider than shoulder-width, behind your neck.\"], \"Body Position\": [\"Keep your feet flat on the ground.\", \"Maintain a straight back and engage your core.\"], \"Execution\": [\"Press the barbell overhead behind your neck.\", \"Fully extend your arms without locking the elbows.\"], \"Range of Motion\": [\"Lower the barbell back to shoulder height with control.\"], \"Muscles Targeted\": [\"Primary - Deltoids (shoulders), trapezius\", \"Secondary - Triceps\"], \"Safety Considerations\": [\"Choose appropriate weights to prevent strain.\", \"Ensure comfortable range of motion; avoid excessive neck strain.\", \"If you feel any pain, stop the exercise.\"]}"
+    },
+    {
+      "id": 7,
+      "exercise": "Standing Barbell Overhead Press",
+      "primary": "Shoulders",
+      "secondary": "Triceps, Traps",
+      "embed_link": "https://youtu.be/2yjwXTZQDDI?si=sEKO_1rdYAW7rQp4",
+      "details": "{\"Setup\": [\"Stand with feet shoulder-width apart.\", \"Grab a barbell with an overhand grip, hands slightly wider than shoulder-width.\"], \"Body Position\": [\"Maintain a straight back and engage your core.\", \"Keep your feet firmly planted on the ground.\"], \"Execution\": [\"Press the barbell overhead simultaneously.\", \"Fully extend your arms without locking the elbows.\"], \"Range of Motion\": [\"Lower the barbell back to shoulder height with control.\"], \"Muscles Targeted\": [\"Primary - Deltoids (shoulders), trapezius\", \"Secondary - Triceps\"], \"Safety Considerations\": [\"Choose appropriate weights to prevent strain.\", \"If you feel any pain, stop the exercise.\"]}"
+    },
+    {
+      "id": 8,
+      "exercise": "Standing Barbell Behind The Neck Press",
+      "primary": "Shoulders",
+      "secondary": "Triceps, Traps",
+      "embed_link": "https://youtu.be/zhFoDNzSTyE?si=aIGL81GG7RThKgv4",
+      "details": "{\"Setup\": [\"Stand with feet shoulder-width apart.\", \"Grab a barbell with an overhand grip, hands slightly wider than shoulder-width, behind your neck.\"], \"Body Position\": [\"Maintain a straight back and engage your core.\", \"Keep your feet firmly planted on the ground.\"], \"Execution\": [\"Press the barbell overhead behind your neck.\", \"Fully extend your arms without locking the elbows.\"], \"Range of Motion\": [\"Lower the barbell back to shoulder height with control.\"], \"Muscles Targeted\": [\"Primary - Deltoids (shoulders), trapezius\", \"Secondary - Triceps\"], \"Safety Considerations\": [\"Choose appropriate weights to prevent strain.\", \"Ensure a comfortable range of motion; avoid excessive neck strain.\", \"If you feel any pain, stop the exercise.\"]}"
+    },
+    {
+      "id": 9,
+      "exercise": "Smith Machine Overhead Press, Seated",
+      "primary": "Shoulders",
+      "secondary": "Triceps, Traps",
+      "embed_link": "https://youtu.be/wF2Vw8UCGFc?si=2idUn8eGncofSVnX",
+      "details": "{\"Setup\": [\"Sit on a bench with back support placed in a Smith Machine.\", \"Adjust the height of the barbell to shoulder level.\"], \"Body Position\": [\"Keep your feet flat on the ground.\", \"Maintain a straight back and engage your core.\"], \"Execution\": [\"Press the Smith Machine barbell overhead.\", \"Fully extend your arms without locking the elbows.\"], \"Range of Motion\": [\"Lower the barbell back to shoulder height with control.\"], \"Muscles Targeted\": [\"Primary - Deltoids (shoulders), trapezius\", \"Secondary - Triceps\"], \"Safety Considerations\": [\"Choose appropriate weights to prevent strain.\", \"Ensure a comfortable range of motion.\", \"If you feel any pain, stop the exercise.\"]}"
+    },
+    {
+      "id": 10,
+      "exercise": "Smith Machine Overhead Press, Seated, Behind The Neck",
+      "primary": "Shoulders",
+      "secondary": "Triceps, Traps",
+      "embed_link": "https://youtube.com/shorts/LPGKvSm6oyY?si=SW0T20GSn9ltAONE",
+      "details": "{\"Setup\": [\"Sit on a bench with back support placed in a Smith Machine.\", \"Adjust the height of the barbell to shoulder level.\"], \"Body Position\": [\"Keep your feet flat on the ground.\", \"Maintain a straight back and engage your core.\"], \"Execution\": [\"Press the Smith Machine barbell overhead behind your neck.\", \"Fully extend your arms without locking the elbows.\"], \"Range of Motion\": [\"Lower the barbell back to shoulder height with control.\"], \"Muscles Targeted\": [\"Primary - Deltoids (shoulders), trapezius\", \"Secondary - Triceps\"], \"Safety Considerations\": [\"Choose appropriate weights to prevent strain.\", \"Ensure a comfortable range of motion; avoid excessive neck strain.\", \"If you feel any pain, stop the exercise.\"]}"
+    },
+    {
+      "id": 11,
+      "exercise": "Plate Loaded Machine Overhead Press",
+      "primary": "Shoulders",
+      "secondary": "Triceps, Traps",
+      "embed_link": "https://youtu.be/3uSsJJdjUBc?si=-hT4qgj-rAHSB7AS",
+      "details": "{\"Setup\": [\"Adjust the seat of the plate-loaded machine to your height.\", \"Load the appropriate weight plates on the machine.\"], \"Body Position\": [\"Sit with your back against the backrest.\", \"Place your feet flat on the ground.\"], \"Execution\": [\"Grasp the handles or grips of the machine.\", \"Press the handles overhead.\"], \"Range of Motion\": [\"Lower the handles back down with control.\"], \"Muscles Targeted\": [\"Primary - Deltoids (shoulders), trapezius\", \"Secondary - Triceps\"], \"Safety Considerations\": [\"Choose an appropriate weight to prevent strain.\", \"Maintain a stable seated position.\", \"If you feel any pain, stop the exercise.\"]}"
+    },
+    {
+      "id": 12,
+      "exercise": "Plate Loaded Machine Overhead Press, Single Arm",
+      "primary": "Shoulders",
+      "secondary": "Triceps, Traps",
+      "embed_link": "https://youtu.be/NaMsS3yqh8A?si=8JG3KjaZD1R-AE1Q",
+      "details": "{\"Setup\": [\"Adjust the seat of the plate-loaded machine to your height.\", \"Load the appropriate weight plate on one side of the machine.\"], \"Body Position\": [\"Sit with your back against the backrest.\", \"Place your feet flat on the ground.\"], \"Execution\": [\"Grasp the handle or grip of the loaded side of the machine.\", \"Press the handle overhead with a single arm.\"], \"Range of Motion\": [\"Lower the handle back down with control.\"], \"Muscles Targeted\": [\"Primary - Deltoid (shoulder), trapezius\", \"Secondary - Triceps\"], \"Safety Considerations\": [\"Choose an appropriate weight to prevent strain.\", \"Maintain a stable seated position.\", \"If you feel any pain, stop the exercise.\"]}"
+    },
+    {
+      "id": 13,
+      "exercise": "Selector Overhead Press Machine, Wide",
+      "primary": "Shoulders",
+      "secondary": "Triceps, Traps",
+      "embed_link": "https://youtu.be/HZkg0SKYKYk?si=r1Jir1d8COvP-CSD",
+      "details": "{\"Setup\": [\"Adjust the seat of the selector overhead press machine to your height.\", \"Select the appropriate weight on the machine's weight stack.\"], \"Body Position\": [\"Sit with your back against the backrest.\", \"Place your feet flat on the ground.\"], \"Execution\": [\"Grasp the wide handles of the machine.\", \"Press the handles overhead simultaneously.\"], \"Range of Motion\": [\"Lower the handles back down with control.\"], \"Muscles Targeted\": [\"Primary - Deltoids (shoulders), trapezius\", \"Secondary - Triceps\"], \"Safety Considerations\": [\"Choose an appropriate weight to prevent strain.\", \"Maintain a stable seated position.\", \"If you feel any pain, stop the exercise.\"]}"
+    },
+    {
+      "id": 14,
+      "exercise": "Selector Overhead Press Machine, Narrow",
+      "primary": "Shoulders",
+      "secondary": "Triceps, Traps",
+      "embed_link": "https://youtu.be/S6BELe49P3g?si=CTPxhV3w8IoucVaW",
+      "details": "{\"Setup\": [\"Adjust the seat of the selector overhead press machine to your height.\", \"Select the appropriate weight on the machine's weight stack.\"], \"Body Position\": [\"Sit with your back against the backrest.\", \"Place your feet flat on the ground.\"], \"Execution\": [\"Grasp the narrow handles of the machine.\", \"Press the handles overhead simultaneously.\"], \"Range of Motion\": [\"Lower the handles back down with control.\"], \"Muscles Targeted\": [\"Primary - Deltoids (shoulders), trapezius\", \"Secondary - Triceps\"], \"Safety Considerations\": [\"Choose an appropriate weight to prevent strain.\", \"Maintain a stable seated position.\", \"If you feel any pain, stop the exercise.\"]}"
+    },
+    {
+      "id": 15,
+      "exercise": "Barbell Upright Row",
+      "primary": "Shoulders",
+      "secondary": "Biceps, Traps",
+      "embed_link": "https://youtu.be/um3VVzqunPU?si=gd_jt5M7rR0Crww-",
+      "details": "{\"Setup\": [\"Stand with feet shoulder-width apart.\", \"Hold a barbell with an overhand grip, hands closer than shoulder-width.\"], \"Body Position\": [\"Maintain a straight back and engage your core.\", \"Keep your feet firmly planted on the ground.\"], \"Execution\": [\"Lift the barbell by raising your elbows towards the ceiling.\", \"Keep the bar close to your body as you lift.\"], \"Range of Motion\": [\"Raise the barbell to shoulder height or slightly below.\"], \"Muscles Targeted\": [\"Primary - Deltoids (shoulders), trapezius\", \"Secondary - Lateral deltoids, biceps\"], \"Safety Considerations\": [\"Choose an appropriate weight to prevent strain.\", \"Avoid excessive wrist flexion.\", \"If you feel any pain, stop the exercise.\"]}"
+    },
+    {
+      "id": 16,
+      "exercise": "EZ Bar Upright Row",
+      "primary": "Shoulders",
+      "secondary": "Biceps, Traps",
+      "embed_link": "https://youtube.com/shorts/qZujPqXu4eA?si=WAobdzWSc7ufzVli",
+      "details": "{\"Setup\": [\"Stand with feet shoulder-width apart.\", \"Hold an EZ bar with an overhand grip, hands slightly wider than shoulder-width.\"], \"Body Position\": [\"Maintain a straight back and engage your core.\", \"Keep your feet firmly planted on the ground.\"], \"Execution\": [\"Lift the EZ bar by raising your elbows towards the ceiling.\", \"Keep the bar close to your body as you lift.\"], \"Range of Motion\": [\"Raise the EZ bar to shoulder height or slightly below.\"], \"Muscles Targeted\": [\"Primary - Deltoids (shoulders), trapezius\", \"Secondary - Lateral deltoids, biceps\"], \"Safety Considerations\": [\"Choose an appropriate weight to prevent strain.\", \"Avoid excessive wrist flexion.\", \"If you feel any pain, stop the exercise.\"]}"
+    },
+    {
+      "id": 17,
+      "exercise": "Cable Upright Row, Rope",
+      "primary": "Shoulders",
+      "secondary": "Biceps, Traps",
+      "embed_link": "https://youtu.be/qr3ziolhjvQ?si=fKMCadkDBGvFPGiJ",
+      "details": "{\"Setup\": [\"Attach a rope to a cable machine at shoulder height.\", \"Stand facing the machine with feet shoulder-width apart.\"], \"Body Position\": [\"Maintain a straight back and engage your core.\", \"Hold the rope with an overhand grip, hands closer than shoulder-width.\"], \"Execution\": [\"Lift the rope by raising your elbows towards the ceiling.\", \"Keep the rope close to your body as you lift.\"], \"Range of Motion\": [\"Raise the rope to shoulder height or slightly below.\"], \"Muscles Targeted\": [\"Primary - Deltoids (shoulders), trapezius\", \"Secondary - Lateral deltoids, biceps\"], \"Safety Considerations\": [\"Choose an appropriate weight to prevent strain.\", \"Maintain control throughout the movement.\", \"If you feel any pain, stop the exercise.\"]}"
+    },
+    {
+      "id": 18,
+      "exercise": "Dumbbell Upright Row",
+      "primary": "Shoulders",
+      "secondary": "Biceps, Traps",
+      "embed_link": "https://youtu.be/IhZLB48kluc?si=yZyyFZYpS0bsJw9w",
+      "details": "{\"Setup\": [\"Stand with feet shoulder-width apart.\", \"Hold a dumbbell in each hand with an overhand grip.\"], \"Body Position\": [\"Maintain a straight back and engage your core.\", \"Keep your feet firmly planted on the ground.\"], \"Execution\": [\"Lift the dumbbells by raising your elbows towards the ceiling.\", \"Keep the dumbbells close to your body as you lift.\"], \"Range of Motion\": [\"Raise the dumbbells to shoulder height or slightly below.\"], \"Muscles Targeted\": [\"Primary - Deltoids (shoulders), trapezius\", \"Secondary - Lateral deltoids, biceps\"], \"Safety Considerations\": [\"Choose appropriate weights to prevent strain.\", \"Maintain control throughout the movement.\", \"If you feel any pain, stop the exercise.\"]}"
+    },
+    {
+      "id": 19,
+      "exercise": "Standing Dumbbell Lateral Raise",
+      "primary": "Shoulders",
+      "secondary": "Traps",
+      "embed_link": "https://youtu.be/pOmbQuGeHf8?si=lUWWjIaJZjCMyypy",
+      "details": "{\"Setup\": [\"Stand with feet shoulder-width apart.\", \"Hold a dumbbell in each hand with a neutral grip.\"], \"Body Position\": [\"Maintain a straight back and engage your core.\", \"Keep your arms by your sides with a slight bend in your elbows.\"], \"Execution\": [\"Lift the dumbbells out to the sides.\", \"Keep a slight bend in your elbows and raise to shoulder height.\"], \"Range of Motion\": [\"Lower the dumbbells back down with control.\"], \"Muscles Targeted\": [\"Primary - Lateral deltoids (shoulders)\", \"Secondary - Trapezius\"], \"Safety Considerations\": [\"Choose appropriate weights to prevent strain.\", \"Maintain a controlled and smooth motion.\", \"If you feel any pain, stop the exercise.\"]}"
+    },
+    {
+      "id": 20,
+      "exercise": "Seated Dumbbell Lateral Raise",
+      "primary": "Shoulders",
+      "secondary": "Traps",
+      "embed_link": "https://youtu.be/xDrYB81QXmY?si=ULkyTu00WeiPnNUA",
+      "details": "{\"Setup\": [\"Sit on a bench with back support.\", \"Hold a dumbbell in each hand with a neutral grip.\"], \"Body Position\": [\"Maintain a straight back and engage your core.\", \"Keep your arms by your sides with a slight bend in your elbows.\"], \"Execution\": [\"Lift the dumbbells out to the sides.\", \"Keep a slight bend in your elbows and raise to shoulder height.\"], \"Range of Motion\": [\"Lower the dumbbells back down with control.\"], \"Muscles Targeted\": [\"Primary - Lateral deltoids (shoulders)\", \"Secondary - Trapezius\"], \"Safety Considerations\": [\"Choose appropriate weights to prevent strain.\", \"Maintain a controlled and smooth motion.\", \"If you feel any pain, stop the exercise.\"]}"
+    },
+    {
+      "id": 21,
+      "exercise": "Single Arm Cable Lateral Raise",
+      "primary": "Shoulders",
+      "secondary": "Traps",
+      "embed_link": "https://youtu.be/oZ6VrySl5Yo?si=gI6-Ndd1PiH4b8_W",
+      "details": "{\"Setup\": [\"Stand next to a cable machine with the cable at the lowest setting.\", \"Hold the handle with one hand, and position yourself with feet shoulder-width apart.\"], \"Body Position\": [\"Maintain a straight back and engage your core.\", \"Keep a slight bend in the elbow of the working arm.\"], \"Execution\": [\"Lift the cable handle out to the side, away from your body.\", \"Raise your arm to shoulder height or slightly below.\"], \"Range of Motion\": [\"Lower the cable handle back down with control.\"], \"Muscles Targeted\": [\"Primary - Lateral deltoid (shoulder)\", \"Secondary - Trapezius\"], \"Safety Considerations\": [\"Choose an appropriate weight to prevent strain.\", \"Maintain a controlled and smooth motion.\", \"If you feel any pain, stop the exercise.\"]}"
+    },
+    {
+      "id": 22,
+      "exercise": "Standing Barbell Front Raise",
+      "primary": "Shoulders",
+      "secondary": "Chest",
+      "embed_link": "https://youtu.be/sxeY7kMYhLc?si=cn634aTuINI7ZE80",
+      "details": "{\"Setup\": [\"Stand with feet shoulder-width apart.\", \"Hold a barbell with an overhand grip, hands slightly wider than shoulder-width.\"], \"Body Position\": [\"Maintain a straight back and engage your core.\", \"Hold the barbell in front of your thighs with arms fully extended.\"], \"Execution\": [\"Lift the barbell in front of you by raising your arms straight in front of your body.\", \"Raise the barbell to shoulder height or slightly below.\"], \"Range of Motion\": [\"Lower the barbell back down in a controlled manner.\"], \"Muscles Targeted\": [\"Primary - Anterior deltoids (front shoulders)\", \"Secondary - Lateral deltoids, trapezius\"], \"Safety Considerations\": [\"Choose appropriate weights to prevent strain.\", \"Maintain a controlled and smooth motion.\", \"If you feel any pain, stop the exercise.\"]}"
+    },
+    {
+      "id": 23,
+      "exercise": "Standing Dumbbell Front Raise",
+      "primary": "Shoulders",
+      "secondary": "Chest",
+      "embed_link": "https://youtu.be/Q7G67jq9rjM?si=VHSLeOeD4R06eypG",
+      "details": "{\"Setup\": [\"Stand with feet shoulder-width apart.\", \"Hold a dumbbell in each hand with an overhand grip.\"], \"Body Position\": [\"Maintain a straight back and engage your core.\", \"Hold the dumbbells in front of your thighs with arms fully extended.\"], \"Execution\": [\"Lift the dumbbells in front of you by raising your arms straight in front of your body.\", \"Raise the dumbbells to shoulder height or slightly below.\"], \"Range of Motion\": [\"Lower the dumbbells back down in a controlled manner.\"], \"Muscles Targeted\": [\"Primary - Anterior deltoids (front shoulders)\", \"Secondary - Lateral deltoids, trapezius\"], \"Safety Considerations\": [\"Choose appropriate weights to prevent strain.\", \"Maintain a controlled and smooth motion.\", \"If you feel any pain, stop the exercise.\"]}"
+    },
+    {
+      "id": 24,
+      "exercise": "Seated Dumbbell Front Raise",
+      "primary": "Shoulders",
+      "secondary": "Chest",
+      "embed_link": "https://youtu.be/vMfLbnc-xhs?si=G0VubaLxA_oAyWE3",
+      "details": "{\"Setup\": [\"Sit on a bench with back support.\", \"Hold a dumbbell in each hand with an overhand grip.\"], \"Body Position\": [\"Maintain a straight back and engage your core.\", \"Hold the dumbbells in front of your thighs with arms fully extended.\"], \"Execution\": [\"Lift the dumbbells in front of you by raising your arms straight in front of your body.\", \"Raise the dumbbells to shoulder height or slightly below.\"], \"Range of Motion\": [\"Lower the dumbbells back down in a controlled manner.\"], \"Muscles Targeted\": [\"Primary - Anterior deltoids (front shoulders)\", \"Secondary - Lateral deltoids, trapezius\"], \"Safety Considerations\": [\"Choose appropriate weights to prevent strain.\", \"Maintain a controlled and smooth motion.\", \"If you feel any pain, stop the exercise.\"]}"
+    },
+    {
+      "id": 25,
+      "exercise": "Standing Cable Front Raise",
+      "primary": "Shoulders",
+      "secondary": "Chest",
+      "embed_link": "https://youtu.be/vtH93qBItdk?si=49OMxN7Mgjtc8Qnz",
+      "details": "NaN"
+    },
+    {
+      "id": 26,
+      "exercise": "Rear Delt Machine ",
+      "primary": "Shoulders",
+      "secondary": "Traps",
+      "embed_link": "https://youtu.be/H4s9t4zbjAs?si=S7nc6Nj9f_8z9FQv",
+      "details": "{\"Setup\": [\"Adjust the seat of the rear delt machine to your height.\", \"Adjust the handles or pads to align with your rear deltoids.\"], \"Body Position\": [\"Sit facing the machine with your chest against the pad.\", \"Grasp the handles or place your arms on the pads.\"], \"Execution\": [\"Squeeze your rear deltoids to bring the handles or pads backward.\", \"Keep your arms straight and maintain control throughout the movement.\"], \"Range of Motion\": [\"Move the handles or pads until your arms are parallel to the ground or slightly beyond.\"], \"Muscles Targeted\": [\"Primary - Rear deltoids\", \"Secondary - Trapezius\"], \"Safety Considerations\": [\"Choose an appropriate weight to prevent strain.\", \"Maintain a stable seated position.\", \"If you feel any pain, stop the exercise.\"]}"
+    },
+    {
+      "id": 27,
+      "exercise": "Dumbbell Bent Over Reverse Fly",
+      "primary": "Shoulders",
+      "secondary": "Traps",
+      "embed_link": "https://youtube.com/shorts/JeSlI2s4XfM?si=FYKoXp0BnhByz5B2",
+      "details": "{\"Setup\": [\"Stand with feet shoulder-width apart.\", \"Hold a dumbbell in each hand with a neutral grip.\"], \"Body Position\": [\"Bend at the hips to bring your torso close to parallel with the ground.\", \"Keep a slight bend in your knees and maintain a straight back.\"], \"Execution\": [\"Lift the dumbbells out to the sides, squeezing your shoulder blades together.\", \"Keep a slight bend in your elbows and raise the dumbbells to shoulder height.\"], \"Range of Motion\": [\"Lower the dumbbells back down with control.\"], \"Muscles Targeted\": [\"Primary - Rear deltoids\", \"Secondary - Trapezius, rhomboids\"], \"Safety Considerations\": [\"Choose appropriate weights to prevent strain.\", \"Maintain a controlled and smooth motion.\", \"If you feel any pain, stop the exercise.\"]}"
+    },
+    {
+      "id": 28,
+      "exercise": "Dumbbell Incline Prone Reverse Fly",
+      "primary": "Shoulders",
+      "secondary": "Traps",
+      "embed_link": "https://youtube.com/shorts/4GwmiRvofbo?si=GeKFs5uzuqrOojp3",
+      "details": "{\"Setup\": [\"Lie facedown on an incline bench with a dumbbell in each hand.\", \"Let your arms hang straight down towards the floor.\"], \"Body Position\": [\"Maintain a neutral spine and engage your core.\", \"Keep a slight bend in your elbows and your palms facing each other.\"], \"Execution\": [\"Lift the dumbbells out to the sides, squeezing your shoulder blades together.\", \"Raise the dumbbells to shoulder height or slightly below.\"], \"Range of Motion\": [\"Lower the dumbbells back down towards the floor with control.\"], \"Muscles Targeted\": [\"Primary - Rear deltoids\", \"Secondary - Trapezius, rhomboids\"], \"Safety Considerations\": [\"Choose appropriate weights to prevent strain.\", \"Maintain a controlled and smooth motion.\", \"If you feel any pain, stop the exercise.\"]}"
+    },
+    {
+      "id": 29,
+      "exercise": "Single Arm Cable Reverse Fly",
+      "primary": "Shoulders",
+      "secondary": "Traps",
+      "embed_link": "https://youtube.com/shorts/bic3M14vKRo?si=PdI_X6_dsGRfbZzs",
+      "details": "{\"Setup\": [\"Stand next to a cable machine with the cable at the lowest setting.\", \"Hold the handle with one hand and position yourself with feet shoulder-width apart.\"], \"Body Position\": [\"Maintain a neutral spine and engage your core.\", \"Keep a slight bend in the elbow of the working arm.\"], \"Execution\": [\"Lift the cable handle out to the side, away from your body.\", \"Raise your arm to shoulder height or slightly below.\"], \"Range of Motion\": [\"Lower the cable handle back down with control.\"], \"Muscles Targeted\": [\"Primary - Rear deltoid\", \"Secondary - Trapezius, rhomboids\"], \"Safety Considerations\": [\"Choose an appropriate weight to prevent strain.\", \"Maintain a controlled and smooth motion.\", \"If you feel any pain, stop the exercise.\"]}"
+    },
+    {
+      "id": 30,
+      "exercise": "Cable Face Pull",
+      "primary": "Shoulders",
+      "secondary": "Traps, Biceps",
+      "embed_link": "https://youtu.be/0Po47vvj9g4?si=rlkrV1kwRKnzf499",
+      "details": "{\"Setup\": [\"Attach a rope to a cable machine at head height.\", \"Stand facing the cable machine with feet shoulder-width apart.\"], \"Body Position\": [\"Maintain a straight back and engage your core.\", \"Hold the rope with an overhand grip, hands on either side of your face.\"], \"Execution\": [\"Pull the rope towards your face, keeping your elbows high and wide.\", \"Squeeze your shoulder blades together at the end of the movement.\"], \"Range of Motion\": [\"Extend your arms back out with control.\"], \"Muscles Targeted\": [\"Primary - Rear deltoids, trapezius, rhomboids\", \"Secondary - Upper traps, rotator cuff\"], \"Safety Considerations\": [\"Choose an appropriate weight to prevent strain.\", \"Maintain a controlled and smooth motion.\", \"If you feel any pain, stop the exercise.\"]}"
+    },
+    {
+      "id": 31,
+      "exercise": "Barbell Bench Press",
+      "primary": "Chest",
+      "secondary": "Shoulders, Triceps",
+      "embed_link": "https://youtu.be/rT7DgCr-3pg?si=2Cgt7rCEhyNbSpoF",
+      "details": "{\"Setup\": [\"Lie on a flat bench with your eyes under the barbell.\", \"Grip the barbell with hands slightly wider than shoulder-width apart.\"], \"Body Position\": [\"Plant your feet firmly on the ground.\", \"Arch your back and retract your shoulder blades.\"], \"Execution\": [\"Unrack the bar and lower it to your chest.\", \"Press the bar back up to the starting position, fully extending your arms.\"], \"Range of Motion\": [\"Lower the bar until it lightly touches your chest, then press it back up.\"], \"Muscles Targeted\": [\"Primary - Pectoralis major (chest), triceps brachii\", \"Secondary - Anterior deltoids (front shoulders), serratus anterior\"], \"Safety Considerations\": [\"Use a spotter, especially when lifting heavy weights.\", \"Maintain control throughout the movement.\", \"If you feel any pain, stop the exercise.\"]}"
+    },
+    {
+      "id": 32,
+      "exercise": "Barbell Bench Press, Close Grip",
+      "primary": "Chest",
+      "secondary": "Shoulders, Triceps",
+      "embed_link": "https://youtu.be/DzA2xZhDGeo?si=RTRZ4saYBmGXmgDX",
+      "details": "{\"Setup\": [\"Lie on a flat bench with your eyes under the barbell.\", \"Grip the barbell with hands closer than shoulder-width apart.\"], \"Body Position\": [\"Plant your feet firmly on the ground.\", \"Arch your back and retract your shoulder blades.\"], \"Execution\": [\"Unrack the bar and lower it to your chest.\", \"Press the bar back up to the starting position, fully extending your arms.\"], \"Range of Motion\": [\"Lower the bar until it lightly touches your chest, then press it back up.\"], \"Muscles Targeted\": [\"Primary - Triceps brachii, inner chest (sternocostal head of pectoralis major)\", \"Secondary - Pectoralis major, anterior deltoids\"], \"Safety Considerations\": [\"Use a spotter, especially when lifting heavy weights.\", \"Maintain control throughout the movement.\", \"If you feel any pain, stop the exercise.\"]}"
+    },
+    {
+      "id": 33,
+      "exercise": "Incline Barbell Bench Press",
+      "primary": "Chest",
+      "secondary": "Shoulders, Triceps",
+      "embed_link": "https://youtu.be/SrqOu55lrYU?si=6Vr4F6yVphNQJydX",
+      "details": "{\"Setup\": [\"Lie on an incline bench with your eyes under the barbell.\", \"Grip the barbell with hands slightly wider than shoulder-width apart.\"], \"Body Position\": [\"Plant your feet firmly on the ground.\", \"Arch your back and retract your shoulder blades.\"], \"Execution\": [\"Unrack the bar and lower it to the upper part of your chest.\", \"Press the bar back up to the starting position, fully extending your arms.\"], \"Range of Motion\": [\"Lower the bar until it lightly touches the upper chest, then press it back up.\"], \"Muscles Targeted\": [\"Primary - Upper chest (clavicular head of pectoralis major), anterior deltoids\", \"Secondary - Triceps brachii\"], \"Safety Considerations\": [\"Use a spotter, especially when lifting heavy weights.\", \"Maintain control throughout the movement.\", \"If you feel any pain, stop the exercise.\"]}"
+    },
+    {
+      "id": 34,
+      "exercise": "Incline Barbell Bench Press, Close Grip",
+      "primary": "Chest",
+      "secondary": "Shoulders, Triceps",
+      "embed_link": "https://youtu.be/BKM1bcBjOE4?si=SghYQxHSvLAnVhf4",
+      "details": "{\"Setup\": [\"Lie on an incline bench with your eyes under the barbell.\", \"Grip the barbell with hands closer than shoulder-width apart.\"], \"Body Position\": [\"Plant your feet firmly on the ground.\", \"Arch your back and retract your shoulder blades.\"], \"Execution\": [\"Unrack the bar and lower it to the upper part of your chest.\", \"Press the bar back up to the starting position, fully extending your arms.\"], \"Range of Motion\": [\"Lower the bar until it lightly touches the upper chest, then press it back up.\"], \"Muscles Targeted\": [\"Primary - Upper chest (clavicular head of pectoralis major), triceps brachii\", \"Secondary - Anterior deltoids\"], \"Safety Considerations\": [\"Use a spotter, especially when lifting heavy weights.\", \"Maintain control throughout the movement.\", \"If you feel any pain, stop the exercise.\"]}"
+    },
+    {
+      "id": 35,
+      "exercise": "Decline Barbell Bench Press",
+      "primary": "Chest",
+      "secondary": "Shoulders, Triceps",
+      "embed_link": "https://youtu.be/LfyQBUKR8SE?si=mj9LUlr6Q0dDq_-s",
+      "details": "NaN"
+    },
+    {
+      "id": 36,
+      "exercise": "Decline Barbell Bench Press, Close Grip",
+      "primary": "Chest",
+      "secondary": "Shoulders, Triceps",
+      "embed_link": "https://youtu.be/t5TxzynRREU?si=HXOyf-Gtp9C9RsKT",
+      "details": "NaN"
+    },
+    {
+      "id": 37,
+      "exercise": "Dumbbell Bench Press",
+      "primary": "Chest",
+      "secondary": "Shoulders, Triceps",
+      "embed_link": "https://youtu.be/VmB1G1K7v94?si=rZeObOeRd2iEJJFA",
+      "details": "NaN"
+    },
+    {
+      "id": 38,
+      "exercise": "Dumbbell Fly",
+      "primary": "Chest",
+      "secondary": "Shoulders, Triceps",
+      "embed_link": "https://youtube.com/shorts/tgWfXlEh-vo?si=O6XgNCPg0fhmz7Z7",
+      "details": "NaN"
+    },
+    {
+      "id": 39,
+      "exercise": "Incline Dumbbell Bench Press",
+      "primary": "Chest",
+      "secondary": "Shoulders, Triceps",
+      "embed_link": "https://youtu.be/TThwNhMVspk?si=Tn1UNoiVoPCujOZE",
+      "details": "NaN"
+    },
+    {
+      "id": 40,
+      "exercise": "Incline Dumbbell Fly",
+      "primary": "Chest",
+      "secondary": "Shoulders",
+      "embed_link": "https://youtube.com/shorts/txTyvfAkmd4?si=WlUfPHVt2PzsMleB",
+      "details": "NaN"
+    },
+    {
+      "id": 41,
+      "exercise": "Decline Dumbbell Fly",
+      "primary": "Chest",
+      "secondary": "Shoulders",
+      "embed_link": "https://youtu.be/ilcbmIoz9S4?si=D9Cxd0vv5Jj-gs39",
+      "details": "NaN"
+    },
+    {
+      "id": 42,
+      "exercise": "Smith Machine Bench Press",
+      "primary": "Chest",
+      "secondary": "Shoulders, Triceps",
+      "embed_link": "https://youtube.com/shorts/nbEWEA9jQiU?si=luxlVgwBg-J-Jku5",
+      "details": "NaN"
+    },
+    {
+      "id": 43,
+      "exercise": "Smith Machine Bench Press, Close Grip",
+      "primary": "Chest",
+      "secondary": "Shoulders, Triceps",
+      "embed_link": "https://youtube.com/shorts/qMHUbGX9pIQ?si=IbAiBiQYy6c6vawI",
+      "details": "NaN"
+    },
+    {
+      "id": 44,
+      "exercise": "Smith Machine Incline Bench Press",
+      "primary": "Chest",
+      "secondary": "Shoulders, Triceps",
+      "embed_link": "https://youtu.be/b8DqTO6ak0k?si=sc72JX9jUBk4faza",
+      "details": "NaN"
+    },
+    {
+      "id": 45,
+      "exercise": "Smith Machine Incline Bench Press, Close Grip",
+      "primary": "Chest",
+      "secondary": "Shoulders, Triceps",
+      "embed_link": "https://youtu.be/QZfNRcUENZg?si=mW8t2iNIFD66DQUE",
+      "details": "NaN"
+    },
+    {
+      "id": 46,
+      "exercise": "Medium Cable Fly",
+      "primary": "Chest",
+      "secondary": "Shoulders",
+      "embed_link": "https://youtu.be/WEM9FCIPlxQ?si=FLA36Co393saL3VN",
+      "details": "NaN"
+    },
+    {
+      "id": 47,
+      "exercise": "High Cable Fly",
+      "primary": "Chest",
+      "secondary": "Shoulders",
+      "embed_link": "https://youtu.be/Iwe6AmxVf7o?si=GN9j8wYzWWE7Z0Wl",
+      "details": "NaN"
+    },
+    {
+      "id": 48,
+      "exercise": "Low Cable Fly",
+      "primary": "Chest",
+      "secondary": "Shoulders",
+      "embed_link": "https://youtu.be/M1N804yWA-8?si=XZxjrkh27w7h9GaF",
+      "details": "NaN"
+    },
+    {
+      "id": 49,
+      "exercise": "Plate Loaded Chest Press Machine",
+      "primary": "Chest",
+      "secondary": "Shoulders, Triceps",
+      "embed_link": "https://youtu.be/c0cglsTUl_8?si=WfmWwrSYzbrqrAQu",
+      "details": "NaN"
+    },
+    {
+      "id": 50,
+      "exercise": "Plate Loaded Incline Chest Press Machine",
+      "primary": "Chest",
+      "secondary": "Shoulders, Triceps",
+      "embed_link": "https://youtube.com/shorts/oTsKBOeCQjA?si=0F2gNkhUOt7D2OhI",
+      "details": "NaN"
+    },
+    {
+      "id": 51,
+      "exercise": "Selector Chest Press Machine",
+      "primary": "Chest",
+      "secondary": "Shoulders, Triceps",
+      "embed_link": "https://youtu.be/sqNwDkUU_Ps?si=L_AYEAR5JRNGbSrr",
+      "details": "NaN"
+    },
+    {
+      "id": 52,
+      "exercise": "Chest Fly Machine",
+      "primary": "Chest",
+      "secondary": "Shoulders",
+      "embed_link": "https://youtu.be/eGjt4lk6g34?si=R3tCUbUZpcEBI02H",
+      "details": "NaN"
+    },
+    {
+      "id": 53,
+      "exercise": "Push up",
+      "primary": "Chest",
+      "secondary": "Shoulders, Triceps",
+      "embed_link": "https://youtu.be/IODxDxX7oi4?si=zAo8znW9k8BNB0u-",
+      "details": "NaN"
+    },
+    {
+      "id": 54,
+      "exercise": "Push up, Close Grip",
+      "primary": "Chest",
+      "secondary": "Shoulders, Triceps",
+      "embed_link": "https://youtu.be/G2mlaEfpEIM?si=4WAX9BfqG2ZjgYvz",
+      "details": "NaN"
+    },
+    {
+      "id": 55,
+      "exercise": "Incline Push up",
+      "primary": "Chest",
+      "secondary": "Shoulders, Triceps",
+      "embed_link": "https://youtu.be/cfns5VDVVvk?si=Om_mzyU9GptENUhS",
+      "details": "NaN"
+    },
+    {
+      "id": 56,
+      "exercise": "Incline Push up, Close Grip",
+      "primary": "Chest",
+      "secondary": "Shoulders, Triceps",
+      "embed_link": "https://youtube.com/shorts/_kIqUhEYv5M?si=8Fy_mgtzlJHs_a8T",
+      "details": "NaN"
+    },
+    {
+      "id": 57,
+      "exercise": "Dips",
+      "primary": "Chest",
+      "secondary": "Shoulders, Triceps",
+      "embed_link": "https://youtu.be/c3ZGl4pAwZ4?si=q8GUKMM76JCUV0Gu",
+      "details": "NaN"
+    },
+    {
+      "id": 58,
+      "exercise": "Dips, Weighted",
+      "primary": "Chest",
+      "secondary": "Shoulders, Triceps",
+      "embed_link": "https://youtu.be/2i3o0bFZT_s?si=6HzTQHgVDLyLq659",
+      "details": "NaN"
+    },
+    {
+      "id": 59,
+      "exercise": "Machine supported Dips",
+      "primary": "Chest",
+      "secondary": "Shoulders, Triceps",
+      "embed_link": "https://youtube.com/shorts/-Ztmc6d5AXY?si=Prru4nVQH1iWUSdY",
+      "details": "NaN"
+    },
+    {
+      "id": 60,
+      "exercise": "EZ Bar Standing Barbell Curl, Narrow Grip",
+      "primary": "Biceps",
+      "secondary": "Forearms",
+      "embed_link": "https://youtu.be/cdmnvo3augg?si=ecD4exGj1czjtOmh",
+      "details": "NaN"
+    },
+    {
+      "id": 61,
+      "exercise": "EZ Bar Standing Barbell Curl, Wide Grip",
+      "primary": "Biceps",
+      "secondary": "Forearms",
+      "embed_link": "https://youtu.be/EK747VC37yE?si=GnbM4idvecC6sMbC",
+      "details": "NaN"
+    },
+    {
+      "id": 62,
+      "exercise": "Standing Straight Bar Barbell Curl",
+      "primary": "Biceps",
+      "secondary": "Forearms",
+      "embed_link": "https://youtu.be/XZ4uBdekQqA?si=94tkGq4BBAIK-ewN",
+      "details": "NaN"
+    },
+    {
+      "id": 63,
+      "exercise": "Standing Barbell Curl, Overhand Grip",
+      "primary": "Biceps",
+      "secondary": "Forearms",
+      "embed_link": "https://youtube.com/shorts/hMDljOPx47g?si=wFnPe75mlZynpLPr",
+      "details": "NaN"
+    },
+    {
+      "id": 64,
+      "exercise": "Standing H Bar Barbell Curl",
+      "primary": "Biceps",
+      "secondary": "Forearms",
+      "embed_link": "https://youtu.be/cFcPaI_Pprk?si=oz7tx83o0oLTvUYO",
+      "details": "NaN"
+    },
+    {
+      "id": 65,
+      "exercise": "EZ Bar Preacher Curl",
+      "primary": "Biceps",
+      "secondary": "Forearms",
+      "embed_link": "https://youtu.be/Gydpcouclx8?si=lX-A_-c7Xx-MHJBo",
+      "details": "NaN"
+    },
+    {
+      "id": 66,
+      "exercise": "H Bar Preacher Curl",
+      "primary": "Biceps",
+      "secondary": "Forearms",
+      "embed_link": "https://youtu.be/sxA__DoLsgo?si=mLzcrd_7cUxxsxJw",
+      "details": "NaN"
+    },
+    {
+      "id": 67,
+      "exercise": "Overhand Grip Straight Bar Preacher Curl",
+      "primary": "Biceps",
+      "secondary": "Forearms",
+      "embed_link": "https://youtube.com/shorts/zuUo-wwFQGw?si=7s7gX1b1JAffq4D4",
+      "details": "NaN"
+    },
+    {
+      "id": 68,
+      "exercise": "Standing Dumbbell Curl",
+      "primary": "Biceps",
+      "secondary": "Forearms",
+      "embed_link": "https://youtu.be/av7-8igSXTs?si=OaBhx8_7-Gehy1SE",
+      "details": "NaN"
+    },
+    {
+      "id": 69,
+      "exercise": "Standing Dumbbell Hammer Curl",
+      "primary": "Biceps",
+      "secondary": "Forearms",
+      "embed_link": "https://youtube.com/shorts/eaNkg6u3Wvs?si=Goz1kOP1qlELBMZ4",
+      "details": "NaN"
+    },
+    {
+      "id": 70,
+      "exercise": "Seated Dumbbell Curl",
+      "primary": "Biceps",
+      "secondary": "Forearms",
+      "embed_link": "https://youtu.be/BsULGO70tcU?si=JBD83gKEFPEr9-wJ",
+      "details": "NaN"
+    },
+    {
+      "id": 71,
+      "exercise": "Seated Dumbbell Hammer Curl",
+      "primary": "Biceps",
+      "secondary": "Forearms",
+      "embed_link": "https://youtu.be/4hKyhFBeclI?si=ok67i6GKLTteqtS-",
+      "details": "NaN"
+    },
+    {
+      "id": 72,
+      "exercise": "Incline Dumbbell Curl",
+      "primary": "Biceps",
+      "secondary": "Forearms",
+      "embed_link": "https://youtu.be/aG7CXiKxepw?si=jYeUKQqzROeHuLYW",
+      "details": "NaN"
+    },
+    {
+      "id": 73,
+      "exercise": "Incline Dumbbell Hammer Curl",
+      "primary": "Biceps",
+      "secondary": "Forearms",
+      "embed_link": "https://youtube.com/shorts/8Af8ZxOsG2o?si=8dYvprVCE_I4HIiE",
+      "details": "NaN"
+    },
+    {
+      "id": 74,
+      "exercise": "Dumbbell Preacher Curl",
+      "primary": "Biceps",
+      "secondary": "Forearms",
+      "embed_link": "https://youtu.be/zuEfTs3R3yo?si=7I3tg-N_m9cUxYwN",
+      "details": "NaN"
+    },
+    {
+      "id": 75,
+      "exercise": "Dumbbell Hammer Preacher Curl",
+      "primary": "Biceps",
+      "secondary": "Forearms",
+      "embed_link": "https://youtu.be/32W1sB5DkHY?si=YxZ0iCqZjlpDsJTv",
+      "details": "NaN"
+    },
+    {
+      "id": 76,
+      "exercise": "Dumbbell Preacher Curl, Single Arm",
+      "primary": "Biceps",
+      "secondary": "Forearms",
+      "embed_link": "https://youtu.be/fuK3nFvwgXk?si=ouIa08HySK0CxXud",
+      "details": "NaN"
+    },
+    {
+      "id": 77,
+      "exercise": "Dumbbell Hammer Preacher Curl, Single Arm",
+      "primary": "Biceps",
+      "secondary": "Forearms",
+      "embed_link": "https://youtube.com/shorts/V4ch-oCavhs?si=fYHQnJBA8rS5WYlS",
+      "details": "NaN"
+    },
+    {
+      "id": 78,
+      "exercise": "Concentration Curl",
+      "primary": "Biceps",
+      "secondary": "Forearms",
+      "embed_link": "https://youtu.be/0AUGkch3tzc?si=a0BgwX727MJ9zBs_",
+      "details": "NaN"
+    },
+    {
+      "id": 79,
+      "exercise": "Standing Cable Curl",
+      "primary": "Biceps",
+      "secondary": "Forearms",
+      "embed_link": "https://youtu.be/opFVuRi_3b8?si=ZzbPep8MLaSTCjZY",
+      "details": "NaN"
+    },
+    {
+      "id": 80,
+      "exercise": "Standing Cable Hammer Curl",
+      "primary": "Biceps",
+      "secondary": "Forearms",
+      "embed_link": "https://youtube.com/shorts/AAwhdPhjxik?si=KVJuRJXQZ4p7CGhc",
+      "details": "NaN"
+    },
+    {
+      "id": 81,
+      "exercise": "Standing Cable Curl, Overhand Grip",
+      "primary": "biceps",
+      "secondary": "Forearms",
+      "embed_link": "https://youtu.be/3927U06oIGw?si=Ej-7BknCTBkS8M8t",
+      "details": "NaN"
+    },
+    {
+      "id": 82,
+      "exercise": "Standing Cable Curl, Single Arm",
+      "primary": "Biceps",
+      "secondary": "Forearms",
+      "embed_link": "https://youtu.be/-f3Q8YG17Z4?si=1zB0P5GSNu_DOiNh",
+      "details": "NaN"
+    },
+    {
+      "id": 83,
+      "exercise": "Standing Cable Hammer Curl, Single Arm",
+      "primary": "Biceps",
+      "secondary": "Forearms",
+      "embed_link": "https://youtu.be/zTvkILFzBUk?si=v9HW-WtKW5S-2D71",
+      "details": "NaN"
+    },
+    {
+      "id": 84,
+      "exercise": "Preacher Curl Machine",
+      "primary": "Biceps",
+      "secondary": "Forearms",
+      "embed_link": "https://youtu.be/Ja6ZlIDONac?si=cJTIkyxMG2p__rR7",
+      "details": "NaN"
+    },
+    {
+      "id": 85,
+      "exercise": "Preacher Curl Machine, Single Arm",
+      "primary": "biceps",
+      "secondary": "Forearms",
+      "embed_link": "https://youtube.com/shorts/DoDG6IGCeJw?si=yRRIIZtfivpFtjW5",
+      "details": "NaN"
+    },
+    {
+      "id": 86,
+      "exercise": "Standing Behind  Back Barbell Wrist Curl",
+      "primary": "Forearms",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/lfQR7oVS8eo?si=-g-DTO9RkaQOH3X9",
+      "details": "NaN"
+    },
+    {
+      "id": 87,
+      "exercise": "Standing Dumbbell Wrist Curl",
+      "primary": "Forearms",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/iQ4JjOK73PE?si=jE9sClSiVRo0lDuS",
+      "details": "NaN"
+    },
+    {
+      "id": 88,
+      "exercise": "Preacher Dumbbell Wrist Curl",
+      "primary": "Forearms",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/2wPpcJBe03o?si=oCHeo8lle6AvHkTT",
+      "details": "NaN"
+    },
+    {
+      "id": 89,
+      "exercise": "Preacher Dumbbell Reverse Wrist Curl",
+      "primary": "Forearms",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/krZ6pWGZ8xo?si=Zowx6GSP_zPH7dx9",
+      "details": "NaN"
+    },
+    {
+      "id": 90,
+      "exercise": "Crunches",
+      "primary": "Abs",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/5ER5Of4MOPI?si=u4u8HxM_x2q55c2_",
+      "details": "NaN"
+    },
+    {
+      "id": 91,
+      "exercise": "Situps",
+      "primary": "Abs",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/jDwoBqPH0jk?si=hUTcN_LZFajrmHiw",
+      "details": "NaN"
+    },
+    {
+      "id": 92,
+      "exercise": "Situps Weighted",
+      "primary": "Abs",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/kZvSaq192cg?si=9ESXwY3GP2-YCFYZ",
+      "details": "NaN"
+    },
+    {
+      "id": 93,
+      "exercise": "Decline Crunches",
+      "primary": "Abs",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/FRzQXeN1hro?si=cUXuby3jyq-HPygk",
+      "details": "NaN"
+    },
+    {
+      "id": 94,
+      "exercise": "Decline Situps",
+      "primary": "Abs",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/QhGU5cmNZds?si=Xiz4XQUwQfM9C9Ew",
+      "details": "NaN"
+    },
+    {
+      "id": 95,
+      "exercise": "Decline Situps, Weighted",
+      "primary": "Abs",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/PhvG-BQgnBU?si=6dCWhwBT20VIc5Rs",
+      "details": "NaN"
+    },
+    {
+      "id": 96,
+      "exercise": "V ups",
+      "primary": "Abs",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/iP2fjvG0g3w?si=7rKGljLgucFPMRow",
+      "details": "NaN"
+    },
+    {
+      "id": 97,
+      "exercise": "V sit ups",
+      "primary": "Abs",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/zWuBxVxZ-zU?si=1gt2W7fg31DDqrTA",
+      "details": "NaN"
+    },
+    {
+      "id": 98,
+      "exercise": "Lying Leg Raise",
+      "primary": "Abs",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/Zr-PtqcpeWM?si=NH7Ix7XQ8dfYfR_8",
+      "details": "NaN"
+    },
+    {
+      "id": 99,
+      "exercise": "Lying Leg Raise, Weighted",
+      "primary": "Abs",
+      "secondary": "NaN",
+      "embed_link": "https://youtube.com/shorts/44tIKFEcWrM?si=X-pgTrMYa1WMWIef",
+      "details": "NaN"
+    },
+    {
+      "id": 100,
+      "exercise": "Lying Reverse Crunch up",
+      "primary": "Abs",
+      "secondary": "NaN",
+      "embed_link": "https://youtube.com/shorts/C4NtGg4St1M?si=ecJ3T7-nfUKfeohn",
+      "details": "NaN"
+    },
+    {
+      "id": 101,
+      "exercise": "Hanging Knee Raise",
+      "primary": "Abs",
+      "secondary": "Forearms",
+      "embed_link": "https://youtu.be/X-ACS9vpRyU?si=blL3B_zzvOnOpMdW",
+      "details": "NaN"
+    },
+    {
+      "id": 102,
+      "exercise": "Hanging Knee Raise, Weighted",
+      "primary": "Abs",
+      "secondary": "Forearms",
+      "embed_link": "https://youtube.com/shorts/gBgLJQkNzjQ?si=ugJcFalV8f6oRJ2C",
+      "details": "NaN"
+    },
+    {
+      "id": 103,
+      "exercise": "Hanging Leg Raise",
+      "primary": "Abs",
+      "secondary": "Forearms",
+      "embed_link": "https://youtu.be/ttdkm6ESUjI?si=TYTo8RiHm0xI3K4v",
+      "details": "NaN"
+    },
+    {
+      "id": 104,
+      "exercise": "Hanging Leg Raise, Weighted",
+      "primary": "Abs",
+      "secondary": "Forearms",
+      "embed_link": "https://youtu.be/EUlYHwZoKfY?si=v8zM83zUEkMoBd6E",
+      "details": "NaN"
+    },
+    {
+      "id": 105,
+      "exercise": "Toes to Bar",
+      "primary": "Abs",
+      "secondary": "Forearms",
+      "embed_link": "https://youtu.be/qcosxmOBQK0?si=FQL4HmUwIuzEKZ6R",
+      "details": "NaN"
+    },
+    {
+      "id": 106,
+      "exercise": "Hanging Knee Raise, Ab Station",
+      "primary": "Abs",
+      "secondary": "Forearms",
+      "embed_link": "https://youtu.be/RD_A-Z15ER4?si=kftLIZsZm9_D92wv",
+      "details": "NaN"
+    },
+    {
+      "id": 107,
+      "exercise": "Hanging Leg Raise, Ab Station",
+      "primary": "Abs",
+      "secondary": "Forearms",
+      "embed_link": "https://youtu.be/RuIdJSVTKO4?si=CN7Z9kGoZ2CxGHRN",
+      "details": "NaN"
+    },
+    {
+      "id": 108,
+      "exercise": "Seated Cable Crunch",
+      "primary": "Abs",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/mkE_gNDQN8o?si=lU5ICnLfnajSKGnJ",
+      "details": "NaN"
+    },
+    {
+      "id": 109,
+      "exercise": "Ab Machine",
+      "primary": "Abs",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/guJxs2iFQ1c?si=x4LIm4okJ9L_EftI",
+      "details": "NaN"
+    },
+    {
+      "id": 110,
+      "exercise": "Plank",
+      "primary": "Abs",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/pSHjTRCQxIw?si=2RVnwXq_3CxXvQCV",
+      "details": "NaN"
+    },
+    {
+      "id": 111,
+      "exercise": "Hollow",
+      "primary": "Abs",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/uZqTUwq96iU?si=-HtCcE2tbEvo-z7J",
+      "details": "NaN"
+    },
+    {
+      "id": 112,
+      "exercise": "Tuck Hollow",
+      "primary": "Abs",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/ZJrmX7X-qtw?si=LoIvC1MR5lwLX-Db",
+      "details": "NaN"
+    },
+    {
+      "id": 113,
+      "exercise": "Fitball Crunches",
+      "primary": "Abs",
+      "secondary": "NaN",
+      "embed_link": "https://youtube.com/shorts/Fx_yufwwHaY?si=1EK2OE5mBUyUcthG",
+      "details": "NaN"
+    },
+    {
+      "id": 114,
+      "exercise": "Kneeling Ab Wheel",
+      "primary": "Abs",
+      "secondary": "Lats",
+      "embed_link": "https://youtu.be/2Uw8oDIF2AY?si=35fxC02gfF_BPshr",
+      "details": "NaN"
+    },
+    {
+      "id": 115,
+      "exercise": "Russian Twist",
+      "primary": "Obliques",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/wkD8rjkodUI?si=WCDYarh7RP7nrugJ",
+      "details": "NaN"
+    },
+    {
+      "id": 116,
+      "exercise": "Decline Russian Twist",
+      "primary": "Obliques",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/UMGJdb2W4E4?si=iJ8IoAdSP6A-GmyU",
+      "details": "NaN"
+    },
+    {
+      "id": 117,
+      "exercise": "Side Plank",
+      "primary": "Obliques",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/9dNL_mtObGQ?si=-YoFEyk-tMgUuevj",
+      "details": "NaN"
+    },
+    {
+      "id": 118,
+      "exercise": "Hanging Leg Raise, Windshield Wipers",
+      "primary": "Obliques",
+      "secondary": "NaN",
+      "embed_link": "https://youtube.com/shorts/wGnkBH753F8?si=JJM6fOg672pCqUlP",
+      "details": "NaN"
+    },
+    {
+      "id": 119,
+      "exercise": "Standing Cable Side Bend",
+      "primary": "Obliques",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/AuSKU4PvF5M?si=qqBSgIWbkg4wIxYI",
+      "details": "NaN"
+    },
+    {
+      "id": 120,
+      "exercise": "Standing Cable Torso Rotations",
+      "primary": "Obliques",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/IHIEp_2D_Dg?si=YvgA4-CeShu7JhDM",
+      "details": "NaN"
+    },
+    {
+      "id": 121,
+      "exercise": "Seated Cable Russian Twist",
+      "primary": "Obliques",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/ZUVe_Jcuos0?si=VGfbWqXsO9o1zd-i",
+      "details": "NaN"
+    },
+    {
+      "id": 122,
+      "exercise": "Standing Dumbbell Side Bend",
+      "primary": "Obliques",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/dL9ZzqtQI5c?si=cpPIwaGO5qaQTe1b",
+      "details": "NaN"
+    },
+    {
+      "id": 123,
+      "exercise": "Roman Chair Side Bend",
+      "primary": "Obliques",
+      "secondary": "NaN",
+      "embed_link": "https://youtube.com/shorts/7eviL5Q0LZc?si=ppF08k1IK5sQvm1L",
+      "details": "NaN"
+    },
+    {
+      "id": 124,
+      "exercise": "Barbell Back Squat",
+      "primary": "Quads",
+      "secondary": "Glutes, Adductors",
+      "embed_link": "https://youtu.be/rrJIyZGlK8c?si=NcVYT8yawVQ4bYEv",
+      "details": "NaN"
+    },
+    {
+      "id": 125,
+      "exercise": "Barbell Back Squat, Wide Stance",
+      "primary": "Quads",
+      "secondary": "Glutes, Adductors",
+      "embed_link": "https://youtu.be/e_YHV9psOiY?si=-v1gNA8xE-MWtSZP",
+      "details": "NaN"
+    },
+    {
+      "id": 126,
+      "exercise": "Barbell Front Squat",
+      "primary": "Quads",
+      "secondary": "Glutes, Adductors",
+      "embed_link": "https://youtu.be/0dpU0WNiPvo?si=OLq8OVFzsCBlGVnv",
+      "details": "NaN"
+    },
+    {
+      "id": 127,
+      "exercise": "Barbell Front Squat, Wide Stance",
+      "primary": "Quads",
+      "secondary": "Glutes, Adductors",
+      "embed_link": "https://youtu.be/nrck9NfEfnM?si=y2A4um1p0Py4jN4j",
+      "details": "NaN"
+    },
+    {
+      "id": 128,
+      "exercise": "Barbell Lunge",
+      "primary": "Quads",
+      "secondary": "Glutes, Adductors",
+      "embed_link": "https://youtu.be/ci4rsmlOk24?si=Jf_pYizjxd2xfTxw",
+      "details": "NaN"
+    },
+    {
+      "id": 129,
+      "exercise": "Front Rack Barbell Lunge",
+      "primary": "Quads",
+      "secondary": "Glutes, Adductors",
+      "embed_link": "https://youtu.be/reMNhrrP3Qk?si=RS1B31ZQHioOQRna",
+      "details": "NaN"
+    },
+    {
+      "id": 130,
+      "exercise": "Goblet Squat",
+      "primary": "Quads",
+      "secondary": "Glutes, Adductors",
+      "embed_link": "https://youtu.be/3gpXflqRiEc?si=cVntPJdD3VMv6iZC",
+      "details": "NaN"
+    },
+    {
+      "id": 131,
+      "exercise": "Goblet Squat Wide Stance",
+      "primary": "Quads",
+      "secondary": "Glutes, Adductors",
+      "embed_link": "https://youtube.com/shorts/-uO6xNPrC4E?si=fTd0gQnR8IiopvVx",
+      "details": "NaN"
+    },
+    {
+      "id": 132,
+      "exercise": "Goblet Lunge",
+      "primary": "Quads",
+      "secondary": "Glutes, Adductors",
+      "embed_link": "https://youtu.be/rTJRq7TASsg?si=x9gBl77njTgPs6bD",
+      "details": "NaN"
+    },
+    {
+      "id": 133,
+      "exercise": "Goblet Bulgarian Lunge",
+      "primary": "Quads",
+      "secondary": "Glutes, Adductors",
+      "embed_link": "https://youtube.com/shorts/lG3MsPmEQQk?si=56dUPe7R78iSu_i7",
+      "details": "NaN"
+    },
+    {
+      "id": 134,
+      "exercise": "Dumbbell Lunges",
+      "primary": "Quads",
+      "secondary": "Glutes, Adductors",
+      "embed_link": "https://youtu.be/3frV3RnPfOY?si=LS2ZxRJKasX7xaQQ",
+      "details": "NaN"
+    },
+    {
+      "id": 135,
+      "exercise": "Dumbbell Walking Lunges",
+      "primary": "Quads",
+      "secondary": "Glutes, Adductors",
+      "embed_link": "https://youtube.com/shorts/xPzikhQSEAs?si=hReGd5inwby3x8N6",
+      "details": "NaN"
+    },
+    {
+      "id": 136,
+      "exercise": "Dumbbell Step up",
+      "primary": "Quads",
+      "secondary": "Glutes, Adductors",
+      "embed_link": "https://youtu.be/9ZknEYboBOQ?si=B4vTNm4pjscQqo2Z",
+      "details": "NaN"
+    },
+    {
+      "id": 137,
+      "exercise": "Dumbbell Bulgarian Lunge",
+      "primary": "Quads",
+      "secondary": "Glutes, Adductors",
+      "embed_link": "https://youtu.be/vLuhN_glFZ8?si=-GFZQs_aGz7N3yY5",
+      "details": "NaN"
+    },
+    {
+      "id": 138,
+      "exercise": "Smith Machine Squat",
+      "primary": "Quads",
+      "secondary": "Glutes, Adductors",
+      "embed_link": "https://youtu.be/AHnX-aimA4E?si=GDchQjAx14mEVyow",
+      "details": "NaN"
+    },
+    {
+      "id": 139,
+      "exercise": "Smith Machine Squat, Wide Stance",
+      "primary": "Quads",
+      "secondary": "Glutes, Adductors",
+      "embed_link": "https://youtu.be/9O3lA9HsZU8?si=h4udBB0KH0_O0DoY",
+      "details": "NaN"
+    },
+    {
+      "id": 140,
+      "exercise": "Smith Machine Lunge",
+      "primary": "Quads",
+      "secondary": "Glutes, Adductors",
+      "embed_link": "https://youtu.be/-cOY6jnccbs?si=WLDBROtq95-KASEo",
+      "details": "NaN"
+    },
+    {
+      "id": 141,
+      "exercise": "Smith Machine Bulgarian Split Squat",
+      "primary": "Quads",
+      "secondary": "Glutes, Adductors",
+      "embed_link": "https://youtu.be/oLi2QcD0B3M?si=leIaRQpFJjeRGM5_",
+      "details": "NaN"
+    },
+    {
+      "id": 142,
+      "exercise": "Leg Press",
+      "primary": "Quads",
+      "secondary": "Glutes, Adductors",
+      "embed_link": "https://youtu.be/p5dCqF7wWUw?si=W0g1wLpxCrxYfZHh",
+      "details": "NaN"
+    },
+    {
+      "id": 143,
+      "exercise": "Leg Press Wide Stance",
+      "primary": "Quads",
+      "secondary": "Glutes, Adductors",
+      "embed_link": "https://youtube.com/shorts/NVXuu7L5Kj4?si=aUPvsc1w7MzRXopc",
+      "details": "NaN"
+    },
+    {
+      "id": 144,
+      "exercise": "Single Leg Press",
+      "primary": "Quads",
+      "secondary": "Glutes, Adductors",
+      "embed_link": "https://youtu.be/ZYDTJaAM-gE?si=lBBMtYjnx5GgfbWl",
+      "details": "NaN"
+    },
+    {
+      "id": 145,
+      "exercise": "Hack Squat",
+      "primary": "Quads",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/0tn5K9NlCfo?si=xxPVlOUbtqa2Xn_t",
+      "details": "NaN"
+    },
+    {
+      "id": 146,
+      "exercise": "Hack Squat Wide Stance",
+      "primary": "Quads",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/tQG3Ii91RvU?si=H6KutMk7VHoPh00-",
+      "details": "NaN"
+    },
+    {
+      "id": 147,
+      "exercise": "Leg Press Selector Machine",
+      "primary": "Quads",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/qCR9bN3G1t4?si=M2Uo7RzvgggXEuIG",
+      "details": "NaN"
+    },
+    {
+      "id": 148,
+      "exercise": "Single Leg, Leg Press Selector Machine",
+      "primary": "Quads",
+      "secondary": "Glutes, Adductors",
+      "embed_link": "https://youtu.be/sxF9BcDt-yY?si=FVeEbb1Rhy4mOOfS",
+      "details": "NaN"
+    },
+    {
+      "id": 149,
+      "exercise": "Leg Extension",
+      "primary": "Quads",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/ljO4jkwv8wQ?si=KGXDIFdh26qTj6e-",
+      "details": "NaN"
+    },
+    {
+      "id": 150,
+      "exercise": "Single Leg Extension",
+      "primary": "Quads",
+      "secondary": "NaN",
+      "embed_link": "https://youtube.com/shorts/Szw1tzPLDyU?si=5o-ejGPHYU0i8LBJ",
+      "details": "NaN"
+    },
+    {
+      "id": 151,
+      "exercise": "Bodyweight Lunge",
+      "primary": "Quads",
+      "secondary": "Glutes, Adductors",
+      "embed_link": "https://youtu.be/YmBw9jhIOsk?si=uBLYy_PUjaR1aYh6",
+      "details": "NaN"
+    },
+    {
+      "id": 152,
+      "exercise": "Bodyweight Bulgarian Lunge",
+      "primary": "Quads",
+      "secondary": "Glutes, Adductors",
+      "embed_link": "https://youtu.be/kBQ1krvKFBU?si=vLtra96XVi6tPNWi",
+      "details": "NaN"
+    },
+    {
+      "id": 153,
+      "exercise": "Cossack Squat",
+      "primary": "Quads",
+      "secondary": "Adductors, Glutes",
+      "embed_link": "https://youtu.be/nqRp-MtWIdY?si=aX7TX2bBHsSmm12E",
+      "details": "NaN"
+    },
+    {
+      "id": 154,
+      "exercise": "Adduction Machine",
+      "primary": "Adductors",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/CjAVezAggkI?si=TSv6nkWo1GAycvKS",
+      "details": "NaN"
+    },
+    {
+      "id": 155,
+      "exercise": "Single Leg Cable Adduction ",
+      "primary": "Adductors",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/pvnR8CDb4BU?si=qDbCZnXbevf13HNr",
+      "details": "NaN"
+    },
+    {
+      "id": 156,
+      "exercise": "Standing Barbell Shrugs ",
+      "primary": "Traps",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/M_MjF5Nm_h4?si=lpaMqb2ZqPh4L8bU",
+      "details": "NaN"
+    },
+    {
+      "id": 157,
+      "exercise": "Standing Dumbbell Shrugs",
+      "primary": "Traps",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/9LNcILnLRZk?si=e5Wo9ht-hbP1VXL_",
+      "details": "NaN"
+    },
+    {
+      "id": 158,
+      "exercise": "Incline Prone Dumbbell Shrugs",
+      "primary": "Traps",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/U2IzzhE1dbQ?si=9QT_U00IcCy0W2iU",
+      "details": "NaN"
+    },
+    {
+      "id": 159,
+      "exercise": "Standing Cable Triceps Pushdown, Rope",
+      "primary": "Triceps",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/y6EdXBdL75A?si=ScbkWwr-OBOENhOe",
+      "details": "NaN"
+    },
+    {
+      "id": 160,
+      "exercise": "Standing Cable Triceps Pushdown, Straight Bar",
+      "primary": "Triceps",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/FiaoxKgRgNA?si=-dwnNbUFf6obGifP",
+      "details": "NaN"
+    },
+    {
+      "id": 161,
+      "exercise": "Standing Cable Tricep Pushdown, Single Arm",
+      "primary": "Triceps",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/RhkRr9eyOzQ?si=q65jDdGmHEgy4Tbu",
+      "details": "NaN"
+    },
+    {
+      "id": 162,
+      "exercise": "Standing Cable Overhead Triceps Extension, Rope",
+      "primary": "Triceps",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/ns-RGsbzqok?si=JahRfrNfeJfm_CHM",
+      "details": "NaN"
+    },
+    {
+      "id": 163,
+      "exercise": "Standing Cable Overhead Triceps Extensions, Straight Bar",
+      "primary": "Triceps",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/qxajRdVVEFo?si=8L_TI9BdsWJPWvlJ",
+      "details": "NaN"
+    },
+    {
+      "id": 164,
+      "exercise": "Standing Cable Overhead Tricep Extensions, Single Arm",
+      "primary": "Triceps",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/FE_AsjcTImc?si=2MCCvbO_Ua4KzzSh",
+      "details": "NaN"
+    },
+    {
+      "id": 165,
+      "exercise": "Cable Triceps Kick Back, Single Arm",
+      "primary": "Triceps",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/ZvF4Oi_6Vtg?si=T6xjYBDpXTG2AIgr",
+      "details": "NaN"
+    },
+    {
+      "id": 166,
+      "exercise": "Seated Dumbbell Overhead Triceps Extensions",
+      "primary": "Triceps",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/YbX7Wd8jQ-Q?si=pi0OaN82wGs9PQim",
+      "details": "NaN"
+    },
+    {
+      "id": 167,
+      "exercise": "Seated Dumbbell Overhead Triceps Extensions, Single Arm",
+      "primary": "Triceps",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/kZ-ReOdn2qk?si=diani5Ah32r95hKt",
+      "details": "NaN"
+    },
+    {
+      "id": 168,
+      "exercise": "Standing Dumbbell Overhead Triceps Extensions",
+      "primary": "Triceps",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/-Vyt2QdsR7E?si=JTMuQ49PIum46nQl",
+      "details": "NaN"
+    },
+    {
+      "id": 169,
+      "exercise": "Standing Dumbbell Overhead Triceps Extensions, Single Arm",
+      "primary": "Triceps",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/2jl4M0Dnq4c?si=RUopKisQr2l815a0",
+      "details": "NaN"
+    },
+    {
+      "id": 170,
+      "exercise": "Dumbbell Skull Crusher",
+      "primary": "Triceps",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/ir5PsbniVSc?si=u2vaJHfZ-fanWLE1",
+      "details": "NaN"
+    },
+    {
+      "id": 171,
+      "exercise": "Dumbbell Skull Crusher, Behind head",
+      "primary": "Triceps",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/-Vyt2QdsR7E?si=2x_JFGONejlGPBXt",
+      "details": "NaN"
+    },
+    {
+      "id": 172,
+      "exercise": "Dumbbell Skull Crusher, Single Arm",
+      "primary": "Triceps",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/DvgvfUFjb4E?si=lKigrUbrLXRhrJSV",
+      "details": "NaN"
+    },
+    {
+      "id": 173,
+      "exercise": "Dumbbell Tricep Kick Back, Incline Prone",
+      "primary": "Triceps",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/PJSQwBUwifw?si=yuOxf95mMp3o15-_",
+      "details": "NaN"
+    },
+    {
+      "id": 174,
+      "exercise": "Prone Triceps Kick Back, Single Arm",
+      "primary": "Triceps",
+      "secondary": "NaN",
+      "embed_link": "https://youtube.com/shorts/7H12QWsr1ZE?si=1bKp5-cladJBPgSM",
+      "details": "NaN"
+    },
+    {
+      "id": 175,
+      "exercise": "EZ Bar Skull Crusher",
+      "primary": "Triceps",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/eluOhtYkm-0?si=sW9CoVQ1QXOAlPOL",
+      "details": "NaN"
+    },
+    {
+      "id": 176,
+      "exercise": "EZ Bar Skull Crusher, Behind Head",
+      "primary": "Triceps",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/d_KZxkY_0cM?si=TkVNN4CmPq1ykuyT",
+      "details": "NaN"
+    },
+    {
+      "id": 177,
+      "exercise": "H Bar Skull Crusher ",
+      "primary": "Triceps",
+      "secondary": "NaN",
+      "embed_link": " https://youtu.be/l3rHYPtMUo8?si=r1_Ny2n1ey_PRBd6",
+      "details": "NaN"
+    },
+    {
+      "id": 178,
+      "exercise": "H Bar Skull Crusher, Behind Head",
+      "primary": "Triceps",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/d_KZxkY_0cM?si=TkVNN4CmPq1ykuyT",
+      "details": "NaN"
+    },
+    {
+      "id": 179,
+      "exercise": "Seated EZ Bar Overhead Triceps Extensions",
+      "primary": "Triceps",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/priRWVpDV8c?si=bqg9cxz_FpR59yha",
+      "details": "NaN"
+    },
+    {
+      "id": 180,
+      "exercise": "Standing EZ Bar Overhead Triceps Extensions",
+      "primary": "Triceps",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/xvvN9HZvaBE?si=jbI78iegO4BQ0-gw",
+      "details": "NaN"
+    },
+    {
+      "id": 181,
+      "exercise": "Triceps Press Machine",
+      "primary": "Triceps",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/4W31U8tTVAg?si=jj55z5Rjq4p1zFgH",
+      "details": "NaN"
+    },
+    {
+      "id": 182,
+      "exercise": "Bench Dips",
+      "primary": "Triceps",
+      "secondary": "Shoulders",
+      "embed_link": "https://youtu.be/c3ZGl4pAwZ4?si=WV-UKrC4Umgthuwg",
+      "details": "NaN"
+    },
+    {
+      "id": 183,
+      "exercise": "Overhand Grip Pull up",
+      "primary": "Lats",
+      "secondary": "Biceps",
+      "embed_link": "https://youtube.com/shorts/60_BX5fROkU?si=FV4-H_q6i3LejfAN",
+      "details": "NaN"
+    },
+    {
+      "id": 184,
+      "exercise": "Overhand Grip Pull up, Weighted",
+      "primary": "Lats",
+      "secondary": "Biceps",
+      "embed_link": "https://youtu.be/-27Ofi_wMFc?si=uf3v_B0-QAGyIRsy",
+      "details": "NaN"
+    },
+    {
+      "id": 185,
+      "exercise": "Wide Grip Pull up",
+      "primary": "Lats",
+      "secondary": "Biceps",
+      "embed_link": "https://youtu.be/GRgWPT9XSQQ?si=FfKoiUXU7AvxSh4K",
+      "details": "NaN"
+    },
+    {
+      "id": 186,
+      "exercise": "Wide Grip Pull up, Weighted",
+      "primary": "Lats",
+      "secondary": "Biceps",
+      "embed_link": "https://youtu.be/GzT3B9MXDuk?si=weQ91rPezeHB5eew",
+      "details": "NaN"
+    },
+    {
+      "id": 187,
+      "exercise": "Neutral Grip Pull Up",
+      "primary": "Lats",
+      "secondary": "Biceps",
+      "embed_link": "https://youtu.be/cd_38C6LuvY?si=JUjL0wbmOjRmKQfC",
+      "details": "NaN"
+    },
+    {
+      "id": 188,
+      "exercise": "Neutral Grip Pull Up, Weighted",
+      "primary": "Lats",
+      "secondary": "Biceps",
+      "embed_link": "https://youtu.be/-27Ofi_wMFc?si=IRAphtxfA3us7E87",
+      "details": "NaN"
+    },
+    {
+      "id": 189,
+      "exercise": "Underhand Grip Pull Up",
+      "primary": "Lats",
+      "secondary": "Biceps",
+      "embed_link": "https://youtu.be/9JC1EwqezGY?si=7s33tVJMMbWe1Zfv",
+      "details": "NaN"
+    },
+    {
+      "id": 190,
+      "exercise": "Underhand Grip Pull Up, Weighted",
+      "primary": "Lats",
+      "secondary": "Biceps",
+      "embed_link": "https://youtu.be/9JC1EwqezGY?si=7s33tVJMMbWe1Zfv",
+      "details": "NaN"
+    },
+    {
+      "id": 191,
+      "exercise": "Machine Supported Pull Ups, Overhand Grip",
+      "primary": "Lats",
+      "secondary": "Biceps",
+      "embed_link": "https://youtu.be/dow7pIrbB7w?si=rS8OHMMWQTnHuNbj",
+      "details": "NaN"
+    },
+    {
+      "id": 192,
+      "exercise": "Machine Supported Pull Ups, Wide Grip",
+      "primary": "Lats",
+      "secondary": "Biceps",
+      "embed_link": "https://youtu.be/iFu7HrvbCv8?si=XIZXttnI-loPGe6d",
+      "details": "NaN"
+    },
+    {
+      "id": 193,
+      "exercise": "Machine Supported Pull Ups, Neutral Grip",
+      "primary": "Lats",
+      "secondary": "Biceps",
+      "embed_link": "https://youtube.com/shorts/xxiUiapscD0?si=ZAlBP6rPH9pg9ZRN",
+      "details": "NaN"
+    },
+    {
+      "id": 194,
+      "exercise": "Overhand Grip Pull up, With Band",
+      "primary": "Lats",
+      "secondary": "Biceps",
+      "embed_link": "https://youtu.be/BDJPQ58Ft6k?si=ZVo-gtd09uoovFWC",
+      "details": "NaN"
+    },
+    {
+      "id": 195,
+      "exercise": "Neutral Grip Pull Up, With Band",
+      "primary": "Lats",
+      "secondary": "Biceps",
+      "embed_link": "https://youtube.com/shorts/rznRMNKJTUQ?si=kSKT7K1y937CPCEb",
+      "details": "NaN"
+    },
+    {
+      "id": 196,
+      "exercise": "Underhand Grip Pull Up, With Band",
+      "primary": "Lats",
+      "secondary": "Biceps",
+      "embed_link": "https://youtu.be/rzFV4t-AjRw?si=exuccF1E9SmoXv4v",
+      "details": "NaN"
+    },
+    {
+      "id": 197,
+      "exercise": "Overhand Grip Lat Pulldown",
+      "primary": "Lats",
+      "secondary": "Biceps",
+      "embed_link": "https://youtu.be/c0vRKMlQsak?si=_KpXZ5T6jBw8PGdZ",
+      "details": "NaN"
+    },
+    {
+      "id": 198,
+      "exercise": "Wide Grip Lat Pulldown",
+      "primary": "Lats",
+      "secondary": "Biceps",
+      "embed_link": "https://youtu.be/lueEJGjTuPQ?si=FrVN5lckNlcKf-Ro",
+      "details": "NaN"
+    },
+    {
+      "id": 199,
+      "exercise": "Neutral Grip Lat Pulldown",
+      "primary": "Lats",
+      "secondary": "Biceps",
+      "embed_link": "https://youtube.com/shorts/jP7iqNMX2qI?si=sMp9lWqfpwUWxWFe",
+      "details": "NaN"
+    },
+    {
+      "id": 200,
+      "exercise": "Underhand Grip Lat Pulldown",
+      "primary": "Lats",
+      "secondary": "Biceps",
+      "embed_link": "https://youtube.com/shorts/jP7iqNMX2qI?si=sMp9lWqfpwUWxWFe",
+      "details": "NaN"
+    },
+    {
+      "id": 201,
+      "exercise": "Behind The Neck Lat Pulldown",
+      "primary": "Lats",
+      "secondary": "Traps, Biceps",
+      "embed_link": "https://youtube.com/shorts/Vv491KgyLJ0?si=zafK7C73iO9xxL9s",
+      "details": "NaN"
+    },
+    {
+      "id": 202,
+      "exercise": "Lat Pulldown, Single Arm",
+      "primary": "Lats",
+      "secondary": "Biceps",
+      "embed_link": "https://youtube.com/shorts/Vv491KgyLJ0?si=CPdV0MshYb_a8RGB",
+      "details": "NaN"
+    },
+    {
+      "id": 203,
+      "exercise": "Overhand Grip Plate Loaded Lat Pulldown",
+      "primary": "Lats",
+      "secondary": "Biceps",
+      "embed_link": "https://youtu.be/FX1CatNsBPc?si=ZsyQjfrUfUJOtQUg",
+      "details": "NaN"
+    },
+    {
+      "id": 204,
+      "exercise": "Neutral Grip Plate Loaded Lat Pulldown",
+      "primary": "Lats",
+      "secondary": "Biceps",
+      "embed_link": "https://youtu.be/Q2fAwQwm1Zk?si=3kMcnAKBb7SeYRRt",
+      "details": "NaN"
+    },
+    {
+      "id": 205,
+      "exercise": "Underhand Grip Plate Loaded Lat Pulldown",
+      "primary": "Lats",
+      "secondary": "Biceps",
+      "embed_link": "https://youtube.com/shorts/bz6zmK4ypgE?si=kB5sOM6bfPqqgoFK",
+      "details": "NaN"
+    },
+    {
+      "id": 206,
+      "exercise": "Neutral Grip Plate Loaded Lat Pulldown, Single Arm",
+      "primary": "Lats",
+      "secondary": "Biceps",
+      "embed_link": "https://youtube.com/shorts/m5uK4Vy-SFg?si=bOfKrNPb6bEA_cAu",
+      "details": "NaN"
+    },
+    {
+      "id": 207,
+      "exercise": "Underhand Grip Plate Loaded Lat Pulldown, Single Arm",
+      "primary": "Lats",
+      "secondary": "Biceps",
+      "embed_link": "https://youtube.com/shorts/3hlbBBVWLUE?si=B77eE5nLSBEvRE7h",
+      "details": "NaN"
+    },
+    {
+      "id": 208,
+      "exercise": "Seated Cable Row, Overhand Grip",
+      "primary": "Lats",
+      "secondary": "Biceps, Traps",
+      "embed_link": "https://youtu.be/oJFe7XPGW9M?si=-7-Xi5cUHYrcodcn",
+      "details": "NaN"
+    },
+    {
+      "id": 209,
+      "exercise": "Seated Cable Row, Underhand Grip",
+      "primary": "Lats",
+      "secondary": "Biceps, Traps",
+      "embed_link": "https://youtu.be/lz1RUpxoVqE?si=BFUGJ1rJ8hfogHoK",
+      "details": "NaN"
+    },
+    {
+      "id": 210,
+      "exercise": "Seated Cable Row, Neutral Grip",
+      "primary": "Lats",
+      "secondary": "Biceps, Traps",
+      "embed_link": "https://youtu.be/UCXxvVItLoM?si=snRk21iuCVCjmVx3",
+      "details": "NaN"
+    },
+    {
+      "id": 211,
+      "exercise": "Seated Cable Row, Wide Grip",
+      "primary": "Lats",
+      "secondary": "Biceps, Traps",
+      "embed_link": "https://youtube.com/shorts/EoLr96vVeys?si=bcXGFbF6GHTViqIM",
+      "details": "NaN"
+    },
+    {
+      "id": 212,
+      "exercise": "Seated Cable Row, Single Arm",
+      "primary": "Lats",
+      "secondary": "Biceps, Traps",
+      "embed_link": "https://youtu.be/_J4YkG0m4i0?si=CWktw7Co0GNGYxmL",
+      "details": "NaN"
+    },
+    {
+      "id": 213,
+      "exercise": "Bent Over Barbell Row, Overhand Grip",
+      "primary": "Lats",
+      "secondary": "Lower Back, Biceps",
+      "embed_link": "https://youtube.com/shorts/UZXXsSYSzCU?si=sU67MLdDMua6coci",
+      "details": "NaN"
+    },
+    {
+      "id": 214,
+      "exercise": "Bent Over Barbell Row, Underhand Grip",
+      "primary": "Lats",
+      "secondary": "Lower Back, Biceps",
+      "embed_link": "https://youtube.com/shorts/ElNQUyDoxkM?si=pciEKGXntHkNqVCv",
+      "details": "NaN"
+    },
+    {
+      "id": 215,
+      "exercise": "TBar Row",
+      "primary": "Lats",
+      "secondary": "Lower Back, Biceps",
+      "embed_link": "https://youtu.be/hYo72r8Ivso?si=MCdOIdpcUdZLrCJ-",
+      "details": "NaN"
+    },
+    {
+      "id": 216,
+      "exercise": "Single Arm Dumbbell row",
+      "primary": "Lats",
+      "secondary": "Biceps, Obliques",
+      "embed_link": "https://youtu.be/dFzUjzfih7k?si=P1lXFtzTjwIHXzvS",
+      "details": "NaN"
+    },
+    {
+      "id": 217,
+      "exercise": "Chest Supported Dumbbell Row",
+      "primary": "Lats",
+      "secondary": "Biceps, Traps",
+      "embed_link": "https://youtu.be/0-DXJiceG-0?si=-2dbSV7Pp5ACcvwC",
+      "details": "NaN"
+    },
+    {
+      "id": 218,
+      "exercise": "Standing Cable Pullover Bar",
+      "primary": "Lats",
+      "secondary": "Traps, Chest",
+      "embed_link": "https://youtube.com/shorts/IuHahFVFYMc?si=m6NjLiP5mCkgQ8yR",
+      "details": "NaN"
+    },
+    {
+      "id": 219,
+      "exercise": "Standing Cable Pullover Rope",
+      "primary": "Lats",
+      "secondary": "Traps, Chest",
+      "embed_link": "https://youtu.be/b5JzUH8gsOg?si=EKbZ-_VI5hb_3_xu",
+      "details": "NaN"
+    },
+    {
+      "id": 220,
+      "exercise": "Standing Cable Pullover, Single Arm",
+      "primary": "Lats",
+      "secondary": "Traps, Chest",
+      "embed_link": "https://youtube.com/shorts/bMhFK0RFl7E?si=R7LsNToroPZ-bz1-",
+      "details": "NaN"
+    },
+    {
+      "id": 221,
+      "exercise": "Flat Dumbell Pullover",
+      "primary": "Lats",
+      "secondary": "Triceps, Chest",
+      "embed_link": "https://youtu.be/FK4rHfWKEac?si=cMcyO7Loi6PZmBQ3",
+      "details": "NaN"
+    },
+    {
+      "id": 222,
+      "exercise": "Decline Dumbbell Pullover",
+      "primary": "Lats",
+      "secondary": "Triceps, Chest",
+      "embed_link": "https://youtu.be/nb0KUWN4cxo?si=-Qf5jhSHM2ZXF6zc",
+      "details": "NaN"
+    },
+    {
+      "id": 223,
+      "exercise": "Plate Loaded Chest Supported Row Machine, Overhand Grip",
+      "primary": "Lats",
+      "secondary": "Biceps, Traps",
+      "embed_link": "https://youtube.com/shorts/rQliH57ZgT8?si=AR8Iohs1TvOTf5Lw",
+      "details": "NaN"
+    },
+    {
+      "id": 224,
+      "exercise": "Plate Loaded Chest Supported Row Machine, Neutral Grip, Narrow",
+      "primary": "Lats",
+      "secondary": "Biceps, Traps",
+      "embed_link": "https://youtu.be/4jyKTCsMYz0?si=L9Ge6tzmXpVk3pIE",
+      "details": "NaN"
+    },
+    {
+      "id": 225,
+      "exercise": "Plate Loaded Chest Supported Row Machine, Overhand, Wide",
+      "primary": "Lats",
+      "secondary": "Biceps, Shoulders",
+      "embed_link": "https://youtube.com/shorts/dn08K4HmsZQ?si=SgTxQHJFSj_Q4NRe",
+      "details": "NaN"
+    },
+    {
+      "id": 226,
+      "exercise": "Plate Loaded Chest Supported Row Machine, Overhand, Wide, Single Arm",
+      "primary": "Lats",
+      "secondary": "Biceps, Shoulders",
+      "embed_link": "https://youtu.be/IRhSe5YD7Xw?si=RH7Nblr3vCmdMFhz",
+      "details": "NaN"
+    },
+    {
+      "id": 227,
+      "exercise": "Plate Loaded Single Arm Chest Supported Row Machine, Overhand Grip, Narrow",
+      "primary": "Lats",
+      "secondary": "Biceps, Traps",
+      "embed_link": "https://youtube.com/shorts/xZCKhE-qdFM?si=0c9oRPKjdqHp8Ej1",
+      "details": "NaN"
+    },
+    {
+      "id": 228,
+      "exercise": "Plate Loaded Single Arm Chest Supported Low Row Machine, Neutral Grip, Narrow",
+      "primary": "Lats",
+      "secondary": "Biceps, Traps",
+      "embed_link": "https://youtube.com/shorts/QvoTUXuAMQI?si=wkcp96c5qs2p_DoT",
+      "details": "NaN"
+    },
+    {
+      "id": 229,
+      "exercise": "Selector Chest Supported Row Machine, Overhand Grip",
+      "primary": "Lats",
+      "secondary": "Biceps, Traps",
+      "embed_link": "https://youtu.be/_FrrYQxA6kc?si=0UlaL2If2KR5IrPq",
+      "details": "NaN"
+    },
+    {
+      "id": 230,
+      "exercise": "Selector Chest Supported Row Machine, Neutral Grip, Narrow",
+      "primary": "Lats",
+      "secondary": "Biceps, Traps",
+      "embed_link": "https://youtube.com/shorts/SPrkqYDnG-4?si=IvACO1dF5hBRP7oU",
+      "details": "NaN"
+    },
+    {
+      "id": 231,
+      "exercise": "Selector Chest Supported Row Machine, Underhand Grip",
+      "primary": "Lats",
+      "secondary": "Biceps, Traps",
+      "embed_link": "https://youtube.com/shorts/azN0upTD8Go?si=XoNtFlXd0o4S-4Us",
+      "details": "NaN"
+    },
+    {
+      "id": 232,
+      "exercise": "Selector Chest Supported Row Machine, Wide Grip",
+      "primary": "Lats",
+      "secondary": "Biceps, Traps",
+      "embed_link": "https://youtu.be/b5JzUH8gsOg?si=EKbZ-_VI5hb_3_xu",
+      "details": "NaN"
+    },
+    {
+      "id": 233,
+      "exercise": "Selector Chest Supported Row Machine, Single Arm",
+      "primary": "Lats",
+      "secondary": "Biceps, Traps",
+      "embed_link": "https://youtu.be/KrNumOj3Otc?si=CXbaGHcFm4LMbjJo",
+      "details": "NaN"
+    },
+    {
+      "id": 234,
+      "exercise": "Inverted Row, Overhand Grip",
+      "primary": "Lats",
+      "secondary": "Biceps, Traps",
+      "embed_link": "https://youtu.be/bIlOFoziYMo?si=WqLfHQbkPjrWbhNo",
+      "details": "NaN"
+    },
+    {
+      "id": 235,
+      "exercise": "Inverted Row, Underhand Grip",
+      "primary": "Lats",
+      "secondary": "Biceps, Traps",
+      "embed_link": "https://youtube.com/shorts/p0yUf3Vn7A0?si=yHXgyD2unjE9dioi",
+      "details": "NaN"
+    },
+    {
+      "id": 236,
+      "exercise": "Abduction Machine",
+      "primary": "Abductors",
+      "secondary": "NaN",
+      "embed_link": "https://youtube.com/shorts/01HilwRf8m8?si=F2e0Pr7HR092Ey2r",
+      "details": "NaN"
+    },
+    {
+      "id": 237,
+      "exercise": "Side Lying Hip Abductions",
+      "primary": "Abductors",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/BLoG9gKfiPM?si=FiTjuxREbnkx20it",
+      "details": "NaN"
+    },
+    {
+      "id": 238,
+      "exercise": "Single Leg Cable Abduction",
+      "primary": "Abductors",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/pvnR8CDb4BU?si=Ks1HHaaL6ESohJBo",
+      "details": "NaN"
+    },
+    {
+      "id": 239,
+      "exercise": "Floor Back Extension",
+      "primary": "Lower Back",
+      "secondary": "NaN",
+      "embed_link": "https://youtu.be/Vu0O414sU0c?si=_EvV2tv-b_JdBHX_",
+      "details": "NaN"
+    },
+    {
+      "id": 240,
+      "exercise": "Superman",
+      "primary": "Lower Back",
+      "secondary": "Glutes",
+      "embed_link": "https://youtu.be/J9zXkxUAfUA?si=D15sEfijfq3UNjD4",
+      "details": "NaN"
+    },
+    {
+      "id": 241,
+      "exercise": "Barbell Hip Thrust",
+      "primary": "Glutes",
+      "secondary": "Hamstrings",
+      "embed_link": "https://youtu.be/aweBS7K71l8?si=fVZ1gTDnTE7hzIdG",
+      "details": "NaN"
+    },
+    {
+      "id": 242,
+      "exercise": "Barbell Hip Thrust, With Bands",
+      "primary": "Glutes",
+      "secondary": "Hamstrings, Abductors",
+      "embed_link": "https://youtube.com/shorts/px7mrenkiQw?si=tD9Y78g3UyLhXTTA",
+      "details": "NaN"
+    },
+    {
+      "id": 243,
+      "exercise": "Barbell Glute Bridge",
+      "primary": "Glutes",
+      "secondary": "Hamstrings",
+      "embed_link": "https://youtu.be/ylpfCk3i-0Y?si=NMCxIQAmBpMETewe",
+      "details": "NaN"
+    },
+    {
+      "id": 244,
+      "exercise": "Barbell Glute Bridge, With Bands",
+      "primary": "Glutes",
+      "secondary": "Hamstrings, Abductors",
+      "embed_link": "https://youtube.com/shorts/UN47mKg50mA?si=JQ2eEHUYZdq2CLD6",
+      "details": "NaN"
+    },
+    {
+      "id": 245,
+      "exercise": "Dumbbell Hip Thrust",
+      "primary": "Glutes",
+      "secondary": "Hamstrings",
+      "embed_link": "https://youtu.be/29OfN4ztW_g?si=jjszcoN_SUFB2whf",
+      "details": "NaN"
+    },
+    {
+      "id": 246,
+      "exercise": "Dumbbell Hip Thrust, With Bands",
+      "primary": "Glutes",
+      "secondary": "Hamstrings, Abductors",
+      "embed_link": "https://youtu.be/vP-iYcLRApo?si=qxCnAhRBtonxnJoa",
+      "details": "NaN"
+    },
+    {
+      "id": 247,
+      "exercise": "Dumbbell Glute Bridge",
+      "primary": "Glutes",
+      "secondary": "Hamstrings",
+      "embed_link": "https://youtu.be/cruqsnAyU6A?si=SN_JvNIra-1NXaRs",
+      "details": "NaN"
+    },
+    {
+      "id": 248,
+      "exercise": "Dumbbell Glute Bridge, With Bands",
+      "primary": "Glutes",
+      "secondary": "Hamstrings, Abductors",
+      "embed_link": "https://youtu.be/HeAkXWob2UU?si=3Qz-cWALwKircPRp",
+      "details": "NaN"
+    },
+    {
+      "id": 249,
+      "exercise": "Hip Thrust Machine",
+      "primary": "Glutes",
+      "secondary": "Hamstrings",
+      "embed_link": "https://youtu.be/rPN8AFz-PVc?si=C8mkph9oBrFnEMoV",
+      "details": "NaN"
+    },
+    {
+      "id": 250,
+      "exercise": "Standing Glute Kickback Machine",
+      "primary": "Glutes",
+      "secondary": "Hamstrings",
+      "embed_link": "https://youtube.com/shorts/G4CjjQxNFOM?si=FiZ1C0bo6oXSf9hF",
+      "details": "NaN"
+    },
+    {
+      "id": 251,
+      "exercise": "Standing Cable Hip Extension",
+      "primary": "Glutes",
+      "secondary": "Hamstrings",
+      "embed_link": "https://youtu.be/f3ebTCWwOwg?si=OiZGtckE4fReXCUm",
+      "details": "NaN"
+    },
+    {
+      "id": 252,
+      "exercise": "Hip Thrust with Bands",
+      "primary": "Glutes",
+      "secondary": "Hamstrings, Abductors",
+      "embed_link": "https://youtu.be/2OaqZ-QAiYw?si=np07LwIvo5H4cEi9",
+      "details": "NaN"
+    },
+    {
+      "id": 253,
+      "exercise": "Single Leg Hip Thrust",
+      "primary": "Glutes",
+      "secondary": "Hamstrings",
+      "embed_link": "https://youtu.be/1u-b25VJVFU?si=xoRz7nk-JNBed6YV",
+      "details": "NaN"
+    },
+    {
+      "id": 254,
+      "exercise": "Single Leg Glute Bridge",
+      "primary": "Glutes",
+      "secondary": "Hamstrings",
+      "embed_link": "https://youtu.be/vdmlNaXSjd4?si=V5AkEjyYDni-Eyv-",
+      "details": "NaN"
+    },
+    {
+      "id": 255,
+      "exercise": "Bodyweight Quadruped Glute Kick Back",
+      "primary": "Glutes",
+      "secondary": "Hamstrings",
+      "embed_link": "https://youtu.be/7xHVmV5wlKQ?si=_YGFVo-BkLXPPXsV",
+      "details": "NaN"
+    },
+    {
+      "id": 256,
+      "exercise": "Lying Kick Back",
+      "primary": "Glutes",
+      "secondary": "Hamstrings",
+      "embed_link": "https://youtu.be/PaCZgwUUx9A?si=qDPCaVdvsZ8mpxf8",
+      "details": "NaN"
+    },
+    {
+      "id": 257,
+      "exercise": "Barbell Deadlift",
+      "primary": "Hamstrings",
+      "secondary": "Glutes, Lower Back",
+      "embed_link": "https://youtu.be/3UwO0fKukRw?si=0dQfjQ1mSoKQmfN5",
+      "details": "NaN"
+    },
+    {
+      "id": 258,
+      "exercise": "Trap Bar Deadlift",
+      "primary": "Hamstrings",
+      "secondary": "Glutes, Quads",
+      "embed_link": "https://youtu.be/VNgxEhOoOjo?si=xymr5xLZyGznI-bb",
+      "details": "NaN"
+    },
+    {
+      "id": 259,
+      "exercise": "Barbell Sumo Deadlift",
+      "primary": "Hamstrings",
+      "secondary": "Glutes, Adductors",
+      "embed_link": "https://youtube.com/shorts/9H73y17mdsQ?si=smjFa25ap_e1SPnE",
+      "details": "NaN"
+    },
+    {
+      "id": 260,
+      "exercise": "Barbell Romanian Deadlift",
+      "primary": "Hamstrings",
+      "secondary": "Glutes, Lower Back",
+      "embed_link": "https://youtube.com/shorts/OmuhDg4C93Y?si=c3lxAxQbfZnB08Oq",
+      "details": "NaN"
+    },
+    {
+      "id": 261,
+      "exercise": "Barbell Staggered Stance Romanian Deadlift",
+      "primary": "Hamstrings",
+      "secondary": "Glutes, Lower Back",
+      "embed_link": "https://youtu.be/UDKuhQqMIBs?si=ZePi60yYuSf6YJfQ",
+      "details": "NaN"
+    },
+    {
+      "id": 262,
+      "exercise": "Barbell Good Morning",
+      "primary": "Hamstrings",
+      "secondary": "Glutes, Lower Back",
+      "embed_link": "https://youtu.be/nWyx81AfTos?si=pJWWi19EEwbuHw3_",
+      "details": "NaN"
+    },
+    {
+      "id": 263,
+      "exercise": "Barbell Staggered Stance Good Morning",
+      "primary": "Hamstrings",
+      "secondary": "Glutes, Lower Back",
+      "embed_link": "https://youtu.be/dd4DYMwKLyY?si=y9xL_FTnhSo1zHtA",
+      "details": "NaN"
+    },
+    {
+      "id": 264,
+      "exercise": "Dumbbell Deadlift",
+      "primary": "Hamstrings",
+      "secondary": "Glutes, Lower Back",
+      "embed_link": "https://youtu.be/lJ3QwaXNJfw?si=S8li1QMcsFVkEIHd",
+      "details": "NaN"
+    },
+    {
+      "id": 265,
+      "exercise": "Dumbbell Romanian Deadlift",
+      "primary": "Hamstrings",
+      "secondary": "Glutes, Lower Back",
+      "embed_link": "https://youtu.be/hQgFixeXdZo?si=ynV5VOb8nOUYVVR7",
+      "details": "NaN"
+    },
+    {
+      "id": 266,
+      "exercise": "Dumbbell Staggered Stance Romanian Deadlift",
+      "primary": "Hamstrings",
+      "secondary": "Glutes, Lower Back",
+      "embed_link": "https://youtu.be/Th4QdA2BOyg?si=Dr1tgsQGYq7B0Vix",
+      "details": "NaN"
+    }
+  ]
